@@ -1,0 +1,859 @@
+S.No.,RollNo,FullName,Degree,Specializations,OfficialEmail,OfficialPhone,Gender,10thmarks,12thmarks,DiplomaMarks,CGPA,StudentStatus
+1,202101050010,Anand Rajasekharan Nair,B.Tech.,Chemical Engineering,anand.nair@mitaoe.ac.in,+91-8356939657,Male,87.00,80.00,NA,8.89,Resume Updated
+2,202101050048,Aparupa Giri,B.Tech.,Chemical Engineering,aparupagiri2003@gmail.com,+91-9404037687,Female,94.60,88.00,NA,7.90,Resume Updated
+3,0120200528,Avishkar Prakash Patil,B.Tech.,Chemical Engineering,avishkar.patil@mitaoe.ac.in,+91-9359214562,Male,86.40,65.40,NA,8.66,Resume Updated
+4,202101050018,Bhosale Soham Gorakshanath,B.Tech.,Chemical Engineering,soham.bhosale@mitaoe.ac.in,+91-8380078035,Male,77.20,90.00,NA,7.34,Resume Updated
+5,202101050002,Chandankhede Sanika Vilas,B.Tech.,Chemical Engineering,sanika.chandankhede@mitaoe.ac.in,+91-9130449938,Female,74.20,84.50,NA,7.92,Resume Updated
+6,202101050009,Chinchkar Rushikesh Bapu,B.Tech.,Chemical Engineering,rushikesh.chinchkar@mitaoe.ac.in,+91-7709482333,Male,90.20,88.00,NA,8.56,Resume Updated
+7,202101050026,Deshmukh Siddhi Anand,B.Tech.,Chemical Engineering,siddhi.deshmukh@mitaoe.ac.in,+91-8317283073,Female,90.40,92.20,NA,8.24,Resume Updated
+8,202101050038,Dhoka Meet Santosh,B.Tech.,Chemical Engineering,meet.dhoka@mitaoe.ac.in,+91-7400320724,Male,80.50,90.00,NA,7.13,Resume Updated
+9,202101050017,Gadiya Yug Mangesh,B.Tech.,Chemical Engineering,yug.gadiya@gmail.com,+91-9822294810,Male,72.40,86.17,NA,6.73,Resume Updated
+10,202202050026,Hake Munja Raghunath,B.Tech.,Chemical Engineering,munja.hake@mitaoe.ac.in,+91-8459757388,Male,80.00,NA,80.00,7.47,Resume Updated
+11,202101050012,Hargude Sarang Kisan,B.Tech.,Chemical Engineering,sarang.hargude@mitaoe.ac.in,+91-8483957106,Male,85.00,81.67,NA,7.70,Resume Updated
+12,202202050011,Hirave Sanket Dipak,B.Tech.,Chemical Engineering,sanket.hirave@mitaoe.ac.in,+91-9028570487,Male,75.00,NA,86.60,7.10,Resume Updated
+13,202202050002,Hyaling Suraj Prakash,B.Tech.,Chemical Engineering,suraj.hyaling@mitaoe.ac.in,+91-8308097438,Male,53.00,NA,79.72,7.72,Resume Updated
+14,202202050004,Jagtap Umesh Balasaheb,B.Tech.,Chemical Engineering,umesh.jagtap@mitaoe.ac.in,+91-7028747174,Male,90.00,NA,8.73,7.37,Resume Updated
+15,202202050030,Joshi Sneha Gopalrao,B.Tech.,Chemical Engineering,sneha.joshi@mitaoe.ac.in,+91-8483827350,Female,69.25,NA,75.00,5.47,Resume Updated
+16,202101050008,Kadam Mayur Rajendra,B.Tech.,Chemical Engineering,mayur.kadam@mitaoe.ac.in,+91-8637792990,Male,89.20,92.17,NA,8.14,Resume Updated
+17,202202050028,Kahandal Ganesh Sanjay,B.Tech.,Chemical Engineering,ganesh.kahandal@mitaoe.ac.in,+91-8483047125,Male,73.60,60.00,82.33,8.22,Resume Updated
+18,202202050019,Kapse Shradha Keshav,B.Tech.,Chemical Engineering,shradha.kapse@mitaoe.ac.in,+91-8308323365,Female,68.00,NA,75.00,8.67,Resume Updated
+19,202202050034,Kasar Suraj Subhash,B.Tech.,Chemical Engineering,suraj.kasar@mitaoe.ac.in,+91-9172432138,Male,87.20,NA,88.61,8.80,Resume Updated
+20,202202050029,Kawade Pratik Pandit,B.Tech.,Chemical Engineering,pratik.kawade@mitaoe.ac.in,+91-7887687047,Male,68.00,NA,77.00,6.90,Resume Updated
+21,202202050027,Kharat Shubham Lahanu,B.Tech.,Chemical Engineering,shubham.kharat@mitaoe.ac.in,+91-9284757725,Male,72.40,55.08,75.00,7.26,Resume Updated
+22,202101050046,Mahant Ayush Prafulla,B.Tech.,Chemical Engineering,ayush.mahant@mitaoe.ac.in,+91-9168236869,Male,68.90,91.17,NA,6.86,Resume Updated
+23,202101050007,Malekar Suryakant Chandrakant,B.Tech.,Chemical Engineering,suryakant.malekar@mitaoe.ac.in,+91-9373496908,Male,83.40,75.83,NA,7.41,Resume Updated
+24,202101050023,Mondal Simran Madhu,B.Tech.,Chemical Engineering,simran.mondal@mitaoe.ac.in,+91-7506953656,Male,84.00,92.00,NA,9.34,Resume Updated
+25,202101050029,Narayanache Mayur Vinayak,B.Tech.,Chemical Engineering,mayur.narayanache@mitaoe.ac.in,+91-8767615592,Male,70.40,80.00,NA,7.02,Resume Updated
+26,202101050043,Narsale Tejas Dattatray,B.Tech.,Chemical Engineering,tejasnarsale3426@gmail.com,+91-9022620263,Male,87.40,93.33,NA,8.01,Resume Updated
+27,202202050008,Pawase Jagruti Tanaji,B.Tech.,Chemical Engineering,jagruti.pawase@mitaoe.ac.in,+91-7741816447,Female,87.20,NA,85.00,9.24,Resume Updated
+28,202101050027,Phase Mrunal Pradip,B.Tech.,Chemical Engineering,mrunal.phase@mitaoe.ac.in,+91-7058834857,Female,96.00,93.67,NA,7.91,Resume Updated
+29,202101050021,Pisal Uday Sanjay,B.Tech.,Chemical Engineering,uday.pisal@mitaoe.ac.in,+91-7756857222,Male,65.60,75.50,NA,7.68,Resume Updated
+30,202101050016,Rabiya Nazir,B.Tech.,Chemical Engineering,rabiya.nazir@mitaoe.ac.in,+91-7006646131,Female,92.00,94.40,NA,7.88,Resume Updated
+31,202101050044,Sanket Prashant Posa,B.Tech.,Chemical Engineering,sanket.posa@mitaoe.ac.in,+91-8855006587,Male,80.20,90.20,NA,5.70,Resume Updated
+32,202202050017,Shaikh Aman Alim,B.Tech.,Chemical Engineering,aman.shaikh@mitaoe.ac.in,+91-9764458044,Male,72.60,NA,9.15,8.52,Resume Updated
+33,202101050019,Shaikh Faizan,B.Tech.,Chemical Engineering,faizan.shaikh@mitaoe.ac.in,+91-7666858532,Male,85.00,81.80,NA,8.34,Resume Updated
+34,202101050042,Suvarnakar Sanika Kondiba,B.Tech.,Chemical Engineering,sanika.suvarnakar@mitaoe.ac.in,+91-7448041124,Female,86.00,88.50,NA,7.01,Resume Updated
+35,202101050039,Tandekar Akash Ramprasad,B.Tech.,Chemical Engineering,akash.tandekar@mitaoe.ac.in,+91-8698401585,Male,75.60,72.67,NA,6.80,Resume Updated
+36,202202050035,Yadav Tushar Ganpat,B.Tech.,Chemical Engineering,tushar.yadav@mitaoe.ac.in,+91-9021266377,Male,68.00,51.00,74.00,7.00,Resume Updated
+37,202202050009,Yash Yuvraj Mahalle,B.Tech.,Chemical Engineering,yashmahalle26@gmail.com,+91-9699146507,Male,9.80,NA,88.70,7.94,Resume Updated
+38,202102050032,Amale Hari Rajendra,B.Tech.,Chemical Engineering,hari.amale@mitaoe.ac.in,NA,Male,NA,NA,NA,NA,Invited
+39,202101050020,Birajdar Aniket Sudhakar,B.Tech.,Chemical Engineering,aniket.birajdar@mitaoe.ac.in,+91-8767475647,Male,NA,NA,NA,NA,Invited
+40,202101050040,Dawane Tanmay Kundan,B.Tech.,Chemical Engineering,tanmay.dawane@mitaoe.ac.in,+91-8483988644,Male,NA,NA,NA,NA,Invited
+41,202101050014,Dundage Shatakshi Umesh,B.Tech.,Chemical Engineering,shatakshidundage@gmail.com,+91-9112274615,Female,NA,NA,NA,NA,Invited
+42,202102050017,Magar Abhishek Prakash,B.Tech.,Chemical Engineering,abhishek.magar@mitaoe.ac.in,+91-9309727701,Male,NA,NA,NA,NA,Invited
+43,202101050015,Mulik Arjun Sandesh,B.Tech.,Chemical Engineering,mulik.arjun11@gmail.com,+91-7620379628,Male,NA,NA,NA,NA,Invited
+44,0120200067,Om Manish Mimrot,B.Tech.,Chemical Engineering,om.mimrot@mitaoe.ac.in,+91-9423148674,Male,NA,NA,NA,NA,Invited
+45,202101050044,Posa Sanket Prashant,B.Tech.,Chemical Engineering,ket.posa@mitaoe.ac.in,+91-8855006587,Male,NA,NA,NA,NA,Invited
+46,202101050013,Save Sahil Deepak,B.Tech.,Chemical Engineering,sahil.save@mitaoe.ac.in,+91-8767790178,Male,NA,NA,NA,NA,Invited
+47,202202050003,Takale Atharv Gaurihar,B.Tech.,Chemical Engineering,atharv.takale@mitaoe.ac.in,+91-8624022306,Male,NA,NA,NA,NA,Invited
+48,202102050029,Take Harishchandra Baban,B.Tech.,Chemical Engineering,harishchandra.take@mitaoe.ac.in,+91-7058088285,Male,NA,NA,NA,NA,Invited
+49,202101050011,Vite Swaraj Santosh,B.Tech.,Chemical Engineering,swaraj.vite@mitaoe.ac.in,+91-9987704240,Male,NA,NA,NA,NA,Invited
+50,202202050025,Akash Dhondiba Dhotre,B.Tech.,Chemical Engineering,akash.dhotre@mitaoe.ac.in,+91-9284832659,Male,NA,NA,NA,NA,Active
+51,202202050010,Andhale Omkar Raju,B.Tech.,Chemical Engineering,omkar.andhale@mitaoe.ac.in,+91-9307846125,Male,87.20,NA,76.37,7.54,Active
+52,202102050018,Aniruddha Narendra Ramekar,B.Tech.,Chemical Engineering,aniruddha.ramekar@mitaoe.ac.in,+91-9370594995,Male,NA,NA,NA,NA,Active
+53,202101050047,Bachkar Harsh Dattatraya,B.Tech.,Chemical Engineering,harsh.bachkar@mitaoe.ac.in,+91-9561481982,Male,NA,NA,NA,NA,Active
+54,202202050007,Bhale Vivek Bhushan,B.Tech.,Chemical Engineering,vivek.bhale@mitaoe.ac.in,+91-9529590918,Male,NA,NA,NA,8.80,Active
+55,202202050021,Bhor Sahil Sambhaji,B.Tech.,Chemical Engineering,sahil.bhor@mitaoe.ac.in,+91-9372133647,Male,NA,NA,NA,NA,Active
+56,202202050031,Birar Om Pramod,B.Tech.,Chemical Engineering,om.birar@mitaoe.ac.in,+91-9145527770,Male,NA,NA,NA,NA,Active
+57,202202050023,Bondase Pratik Vasant,B.Tech.,Chemical Engineering,pratik.bondase@mitaoe.ac.in,+91-9325678550,Male,NA,NA,NA,NA,Active
+58,202101050028,Borikar Chaitanya Prakash,B.Tech.,Chemical Engineering,chaitanya.borikar@mitaoe.ac.in,+91-7249698962,Male,73.60,86.33,NA,7.13,Active
+59,202202050005,Dalvi Anchur Vijay,B.Tech.,Chemical Engineering,anchur.dalvi@mitaoe.ac.in,+91-7666479645,Male,82.40,80.67,88.22,7.93,Active
+60,202202050024,Dewar Anuj Pramod,B.Tech.,Chemical Engineering,anuj.dewar@mitaoe.ac.in,+91-9307954562,Male,NA,NA,NA,NA,Active
+61,202101050041,Dhabarde Gaurav Ramesh,B.Tech.,Chemical Engineering,gaurav.dhabarde@mitaoe.ac.in,+91-7057745705,Male,78.90,87.50,NA,7.19,Active
+62,202202050022,Jadhav Tejas Dharmendra,B.Tech.,Chemical Engineering,tejasd.jadhav@mitaoe.ac.in,+91-9689660874,Male,61.81,NA,77.17,8.76,Active
+63,202202050018,Khade Omkar Shivaji,B.Tech.,Chemical Engineering,khadeomkar513@gmail.com,+91-7385616424,Male,70.20,NA,81.11,8.01,Active
+64,202202050032,Khade Rahul Subhash,B.Tech.,Chemical Engineering,rahul.khade@mitaoe.ac.in,+91-7972683194,Male,NA,NA,NA,NA,Active
+65,202101050022,Khangar Dhnynesh Sharad,B.Tech.,Chemical Engineering,dhnynesh.khangar@mitaoe.ac.in,+91-8308871559,Male,86.00,89.00,NA,5.90,Active
+66,202202050015,Kshirsagar Anushka Anil,B.Tech.,Chemical Engineering,anushka.kshirsagar@mitaoe.ac.in,+91-7822060397,Female,NA,NA,NA,NA,Active
+67,202202050006,Patil Sahil Shashikant,B.Tech.,Chemical Engineering,sahil.patil@mitaoe.ac.in,+91-7028229309,Male,74.00,NA,76.00,7.71,Active
+68,202101050001,Prabhu Samarth Milind,B.Tech.,Chemical Engineering,samarth.prabhu@mitaoe.ac.in,+91-9881747571,Male,81.40,82.40,NA,NA,Active
+69,202101050004,Ransarje Gayatri Datta,B.Tech.,Chemical Engineering,gayatri.ransarje@mitaoe.ac.in,+91-8767664179,Female,NA,NA,NA,NA,Active
+70,202202050016,Satpute Pooja Raghunath,B.Tech.,Chemical Engineering,pooja.satpute@mitaoe.ac.in,+91-8767564860,Female,NA,NA,NA,NA,Active
+71,202202050012,Shelar Samarth Sanjay,B.Tech.,Chemical Engineering,samshelar853@gmail.com,+91-9834723588,Male,NA,NA,NA,NA,Active
+72,202202050020,Suryawanshi Rishita Sachin,B.Tech.,Chemical Engineering,rishita.suryawanshi@mitaoe.ac.in,+91-8080427294,Female,NA,NA,NA,NA,Active
+73,202202050033,Swami Gayatri Gaurishankar,B.Tech.,Chemical Engineering,gayatri.swami@mitaoe.ac.in,+91-7058629830,Female,NA,NA,NA,NA,Active
+74,0120200136,Tabish Matin Khan,B.Tech.,Chemical Engineering,tabish.khan@mitaoe.ac.in,+91-8275311200,Male,NA,NA,NA,NA,Active
+75,202101050005,Tambe Isha Amit,B.Tech.,Chemical Engineering,isha.tambe@mitaoe.ac.in,+91-9767590105,Female,NA,NA,NA,NA,Active
+76,202202050001,Tharkude Harshad Dnyaneshwar,B.Tech.,Chemical Engineering,harshad.tharkude@mitaoe.ac.in,+91-9137047085,Male,74.80,NA,77.33,7.96,Active
+77,202101050030,Vidap Suraj Shridar,B.Tech.,Chemical Engineering,suraj.vidap@mitaoe.ac.in,+91-8856074779,Male,NA,NA,NA,NA,Active
+78,202101050003,Waghmare Sayali Popat,B.Tech.,Chemical Engineering,sayali.waghmare@mitaoe.ac.in,+91-8329005825,Female,NA,NA,NA,NA,Active
+79,202202030029,Adhao Balkrushna Dnyaneshwar,B.Tech.,Civil Engineering,balkrushna.adhao@mitaoe.ac.in,+91-7057549687,Male,89.60,NA,86.63,7.89,Resume Updated
+80,202202030003,Ambhore Vishwadeep Vasant,B.Tech.,Civil Engineering,vishwadeep.ambhore@mitaoe.ac.in,+91-7887386043,Male,71.40,NA,85.63,7.17,Resume Updated
+81,202202030039,Amogh Nitin Bedmutha,B.Tech.,Civil Engineering,amogh.bedmutha@mitaoe.ac.in,+91-8087739191,Male,84.00,NA,86.05,7.98,Resume Updated
+82,202101030002,Bhalerao Aniket Manesh,B.Tech.,Civil Engineering,aniket.bhalerao@mitaoe.ac.in,+91-7666920941,Male,87.20,90.00,NA,7.18,Resume Updated
+83,202202030005,Bhatnate Ritesh Ashok,B.Tech.,Civil Engineering,ritesh.bhatnate@mitaoe.ac.in,+91-9359269484,Male,81.40,NA,86.90,7.64,Resume Updated
+84,202101030038,Bimrot Gajanan Ugamsing,B.Tech.,Civil Engineering,gajanan.bimrot@mitaoe.ac.in,+91-9370922140,Male,82.00,85.00,NA,6.78,Resume Updated
+85,202202030026,Chaudhari Ganesh Shivling,B.Tech.,Civil Engineering,ganesh.chaudhari@mitaoe.ac.in,+91-7796165575,Male,83.40,NA,88.53,7.76,Resume Updated
+86,202202030011,Chaudhari Vaidehi Baban,B.Tech.,Civil Engineering,vaidehi.chaudhari@mitaoe.ac.in,+91-7262867803,Female,88.40,NA,88.79,8.15,Resume Updated
+87,202202030013,Chavan Jatin Satish,B.Tech.,Civil Engineering,jatin.chavan@mitaoe.ac.in,+91-9404345608,Male,58.80,NA,63.55,NA,Resume Updated
+88,202101030042,Chavan Sarthak Anil,B.Tech.,Civil Engineering,sarthak.chavan@mitaoe.ac.in,+91-7028575624,Male,82.00,74.40,NA,5.50,Resume Updated
+89,202202030020,Chavhan Sanskar Ashok,B.Tech.,Civil Engineering,sanskar.chavhan@mitaoe.ac.in,+91-7666178343,Male,82.40,NA,87.42,7.70,Resume Updated
+90,202202030008,Deshmukh Bhupendra Yogesh,B.Tech.,Civil Engineering,bhupendra.deshmukh@mitaoe.ac.in,+91-7770028855,Male,79.20,NA,88.05,7.85,Resume Updated
+91,202202030040,Dharpale Arti Dadasaheb,B.Tech.,Civil Engineering,arti.dharpale@mitaoe.ac.in,+91-7447598512,Female,68.20,NA,87.74,8.14,Resume Updated
+92,202101030035,Furquanziya Shakeel Shaikh,B.Tech.,Civil Engineering,furquanziya.shaikh@mitaoe.ac.in,+91-9130704913,Male,85.02,84.60,NA,8.48,Resume Updated
+93,202202030024,Gadge Shraddha Sanjivkumar,B.Tech.,Civil Engineering,shraddha.gadge@mitaoe.ac.in,+91-9309707593,Female,92.00,NA,84.46,7.90,Resume Updated
+94,202202030004,Gangode Prakash Nivrutti,B.Tech.,Civil Engineering,prakash.gangode@mitaoe.ac.in,+91-9604669700,Male,83.60,NA,76.63,5.93,Resume Updated
+95,202202030001,Gawai Aditya Vijay,B.Tech.,Civil Engineering,aditya.gawai@mitaoe.ac.in,+91-7219359219,Male,81.90,NA,88.95,NA,Resume Updated
+96,202101030015,Ghoderao Akshada Abhijeet,B.Tech.,Civil Engineering,akshada.ghoderao@mitaoe.ac.in,+91-9665625136,Female,90.80,92.50,NA,7.66,Resume Updated
+97,202202030012,Ghule Madhubala Mahadev,B.Tech.,Civil Engineering,madhubala.ghule@mitaoe.ac.in,+91-7499102456,Female,74.60,NA,87.33,NA,Resume Updated
+98,202202030015,Gundle Raj Balaji,B.Tech.,Civil Engineering,raj.gundle@mitaoe.ac.in,+91-9764135872,Male,85.00,60.00,84.00,7.00,Resume Updated
+99,202202030010,Kamble Parimeeta Anil,B.Tech.,Civil Engineering,parimeeta.kamble@mitaoe.ac.in,+91-9657641984,Female,85.00,NA,83.32,7.39,Resume Updated
+100,202101030021,Khatri Chirag Vijay,B.Tech.,Civil Engineering,chirag.khatri@mitaoe.ac.in,+91-7218873443,Male,79.00,88.33,NA,8.22,Resume Updated
+101,202101030006,Kolhe Atharva Sharadkumar,B.Tech.,Civil Engineering,atharv.kolhe@mitaoe.ac.in,+91-8767433930,Male,77.80,71.00,NA,7.54,Resume Updated
+102,202202030017,Kure Balaji Sharad,B.Tech.,Civil Engineering,balaji.kure@mitaoe.ac.in,+91-9307665805,Male,77.80,NA,85.22,7.48,Resume Updated
+103,202202030038,Madhura Kishor Shirode,B.Tech.,Civil Engineering,madhura.shirode@mitaoe.ac.in,+91-8080488240,Female,90.20,NA,80.19,7.95,Resume Updated
+104,202202030037,Masooma Sultan,B.Tech.,Civil Engineering,masooma.sultan@mitaoe.ac.in,+91-8493982605,Female,9.20,NA,80.52,7.52,Resume Updated
+105,202202030030,Mayuri Mahesh Jagadale,B.Tech.,Civil Engineering,mayuri.jagdale@mitaoe.ac.in,+91-9132617070,Female,94.20,NA,89.00,7.60,Resume Updated
+106,202202030036,Mousim Sultan,B.Tech.,Civil Engineering,mousim.sultan@mitaoe.ac.in,+91-9149603913,Male,94.00,NA,83.08,8.84,Resume Updated
+107,202202030033,Pandagare Rakhi Sudam,B.Tech.,Civil Engineering,rakhi.pandagare@mitaoe.ac.in,+91-9970301543,Female,83.40,NA,85.79,7.99,Resume Updated
+108,202101030019,Patil Rajdeepsing Dinkar,B.Tech.,Civil Engineering,rajdeepsing.patil@mitaoe.ac.in,+91-9325973429,Male,68.40,73.40,NA,6.90,Resume Updated
+109,202101030001,Pawar Ashwajeet Harishchandra,B.Tech.,Civil Engineering,ashwajeet.pawar@mitaoe.ac.in,+91-8007575404,Male,84.60,79.83,NA,6.83,Resume Updated
+110,202101030011,Pawar Krishnaraj Panjabrao,B.Tech.,Civil Engineering,krishnaraj.pawar@mitaoe.ac.in,+91-8888343003,Male,56.00,87.17,NA,6.65,Resume Updated
+111,202202030002,Pogulwar Shantanu Kaveshwar,B.Tech.,Civil Engineering,shantanu.pogulwar@mitaoe.ac.in,+91-9881384508,Male,81.00,NA,89.90,8.12,Resume Updated
+112,202202030022,Sakunde Sandeep Gangadhar,B.Tech.,Civil Engineering,sandeep.sakunde@mitaoe.ac.in,+91-9067343776,Male,8.10,NA,8.70,8.73,Resume Updated
+113,202202030021,Sangale Yash Sushil,B.Tech.,Civil Engineering,yash.sangale@mitaoe.ac.in,+91-9373185715,Male,87.40,NA,86.31,7.89,Resume Updated
+114,202101030028,Sidharth Rajagopal,B.Tech.,Civil Engineering,sidharth.rajagopal@mitaoe.ac.in,+91-6282364467,Male,90.00,80.00,NA,6.17,Resume Updated
+115,0120200345,Sonam Dnyanoba Kendre,B.Tech.,Civil Engineering,sonam.kendre@mitaoe.ac.in,+91-8767197540,Female,84.00,70.00,NA,6.02,Resume Updated
+116,202101030022,Surve Aditya Keshav,B.Tech.,Civil Engineering,aditya.surve@mitaoe.ac.in,+91-7020728889,Male,76.00,76.33,NA,8.10,Resume Updated
+117,202202030019,Takate Uddhav Ambadas,B.Tech.,Civil Engineering,uddhav.takate@mitaoe.ac.in,+91-8080410668,Male,61.40,NA,88.40,7.60,Resume Updated
+118,202202030032,Tiwari Shubham Sanjeevkumar,B.Tech.,Civil Engineering,shubham.tiwari@mitaoe.ac.in,+91-8828826201,Male,75.80,NA,95.20,8.29,Resume Updated
+119,202202030023,Vedant Sontakke,B.Tech.,Civil Engineering,vedant.sontakke@mitaoe.ac.in,+91-9834724479,Male,84.25,NA,89.50,8.05,Resume Updated
+120,202202030014,Wankhede Rohit Jitendra,B.Tech.,Civil Engineering,rohit.wankhede@mitaoe.ac.in,+91-9422917936,Male,88.60,NA,87.00,7.46,Resume Updated
+121,202202030034,Balraj Ramesh Barge,B.Tech.,Civil Engineering,balrajbarge28@gmail.com,+91-7798719105,Male,NA,NA,NA,NA,Invited
+122,202101030012,Barkul Pratap Vikas,B.Tech.,Civil Engineering,pratap.barkul@mitaoe.ac.in,+91-7887522394,Male,NA,NA,NA,NA,Invited
+123,202101030029,Gaikwad Raj Datta,B.Tech.,Civil Engineering,raj.gaikwad@mitaoe.ac.in,+91-7276185136,Male,NA,NA,NA,NA,Invited
+124,202101030040,Khedkar Rushhikesh Shrinivas,B.Tech.,Civil Engineering,rushikesh.khedkar@mitaoe.ac.in,+91-9370735123,Male,NA,NA,NA,NA,Invited
+125,202202030028,Mohurle Sanket Bapurao,B.Tech.,Civil Engineering,sanket.mohurle@mitaoe.ac.in,+91-9921192529,Male,NA,NA,NA,NA,Invited
+126,202101030030,Munde Komal Kishor,B.Tech.,Civil Engineering,komal.munde@mitaoe.ac.in,+91-8975512949,Female,NA,NA,NA,NA,Invited
+127,202101030010,Pardhi Ankush Hulash,B.Tech.,Civil Engineering,ankush.pardhi@mitaoe.ac.in,+91-9359684891,Male,NA,NA,NA,NA,Invited
+128,202101030007,Patil Niraj Ashok,B.Tech.,Civil Engineering,niraj.patil@mitaoe.ac.in,+91-8390552271,Male,NA,NA,NA,NA,Invited
+129,202202030018,Puri Varsha Pramod,B.Tech.,Civil Engineering,varsha.puri@mitaoe.ac.in,+91-8623910549,Female,NA,NA,NA,NA,Invited
+130,202101030037,Shinde Prithviraj Sunil,B.Tech.,Civil Engineering,prithviraj.shinde@mitaoe.ac.in,+91-9595292383,Male,NA,NA,NA,NA,Invited
+131,202202030031,Sourabh Tak,B.Tech.,Civil Engineering,sourabh.tak@mitaoe.ac.in,+91-7006180035,Male,NA,NA,NA,NA,Invited
+132,202101030023,Suryawanshi Kiran Babusha,B.Tech.,Civil Engineering,kiran.suryawanshi@mitaoe.ac.in,+91-7796421658,Male,NA,NA,NA,NA,Invited
+133,202101030025,Athawale Abhijeet Gajanan,B.Tech.,Civil Engineering,abhijeet.athawale@mitaoe.ac.in,+91-8767422854,Male,84.14,85.00,NA,6.74,Active
+134,0120200070,Bankar Aditya Mahesh,B.Tech.,Civil Engineering,aditya.bankar@mitaoe.ac.in,+91-9423469175,Male,NA,NA,NA,NA,Active
+135,202101030024,Ingle Tejas Vinod,B.Tech.,Civil Engineering,tejas.ingle@mitaoe.ac.in,+91-9579518530,Male,70.80,88.17,NA,5.82,Active
+136,202202030006,Khade Tanmay Mukund,B.Tech.,Civil Engineering,tanmay.khade@mitaoe.ac.in,+91-8805504780,Male,NA,NA,NA,NA,Active
+137,202101030026,Kohinkar Aditya Ashok,B.Tech.,Civil Engineering,aditya.kohinkar@mitaoe.ac.in,+91-8857962395,Male,NA,NA,NA,NA,Active
+138,202202030025,Kuwar Lokesh Baburao,B.Tech.,Civil Engineering,lokesh.kuwar@mitaoe.ac.in,+91-9309959746,Male,NA,NA,NA,NA,Active
+139,202101030036,Mandore Manas Sunil,B.Tech.,Civil Engineering,manas.mandore@mitaoe.ac.in,+91-8275196100,Male,NA,NA,NA,NA,Active
+140,202101030034,Narawade Vishakha Kishor,B.Tech.,Civil Engineering,vishakha.narwade@mitaoe.ac.in,+91-8983375127,Female,NA,NA,NA,NA,Active
+141,0120190566,Sanket Gopal Dhamshedwar,B.Tech.,Civil Engineering,sgdhamshedwar@mitaoe.ac.in,NA,Male,85.00,62.00,NA,6.61,Active
+142,202202030035,Sonwane Abhay Dipak,B.Tech.,Civil Engineering,abhay.sonwane@mitaoe.ac.in,+91-9529621068,Male,NA,NA,NA,NA,Active
+143,202101030032,Srivastava Ankur Gyanendra Kumar,B.Tech.,Civil Engineering,ankur.srivastava@mitaoe.ac.in,+91-9055263534,Male,NA,NA,NA,NA,Active
+144,202101030020,Sutar Sudesh Dilip,B.Tech.,Civil Engineering,sudesh.sutar@mitaoe.ac.in,+91-7399297171,Male,NA,NA,NA,NA,Active
+145,202101030008,Todkari Hrushikesh Vikas,B.Tech.,Civil Engineering,hrushikesh.todkari@mitaoe.ac.in,+91-9529029323,Male,NA,NA,NA,NA,Active
+146,202202030007,Tushar Anirudh Mundhada,B.Tech.,Civil Engineering,tushar.mundhada@mitaoe.ac.in,+91-7972803815,Male,NA,NA,NA,NA,Active
+147,0120190570,Vedant Jitendra Bhavsar,B.Tech.,Civil Engineering,vjbhavsar@mitaoe.ac.in,NA,Male,NA,NA,NA,NA,Active
+148,202101030039,Wankhade Prajwal Shuddhodhan,B.Tech.,Civil Engineering,prajwal.wankhade@mitaoe.ac.in,+91-8421846776,Male,NA,NA,NA,NA,Active
+149,202101040174,Abhijit Yogesh Amrutkar,B.Tech.,Computer Science and Engineering,abhijit.amrutkar@mitaoe.ac.in,+91-8788623618,Male,95.00,96.50,NA,8.34,Resume Updated
+150,202101040130,Abhishek Sandeep Pawar,B.Tech.,Computer Science and Engineering,abhisheks.pawar@mitaoe.ac.in,+91-7218821284,Male,90.80,90.00,NA,8.84,Resume Updated
+151,202101040132,Aditya Kailas Joshi,B.Tech.,Computer Science and Engineering,aditya.joshi@mitaoe.ac.in,+91-7666800663,Male,90.40,86.00,NA,8.91,Resume Updated
+152,202101040140,Aditya Sandeep Dhamale,B.Tech.,Computer Science and Engineering,aditya.dhamale@mitaoe.ac.in,+91-9689104033,Male,93.20,95.33,NA,9.18,Resume Updated
+153,202101040192,Ahmed Abraham Ilyas,B.Tech.,Computer Science and Engineering,abraham.ahmed@mitaoe.ac.in,+91-9022183799,Male,83.33,93.33,NA,9.20,Resume Updated
+154,202101040168,Ajinkya Anil Khete,B.Tech.,Computer Science and Engineering,ajinkya.khete@mitaoe.ac.in,+91-7774055035,Male,86.00,91.83,NA,8.58,Resume Updated
+155,202101040219,Akash Manik Nalawade,B.Tech.,Computer Science and Engineering,akash.nalawade@mitaoe.ac.in,+91-8262963185,Male,96.80,90.67,NA,8.51,Resume Updated
+156,202101040118,Akhil Singh Chib,B.Tech.,Computer Science and Engineering,akhil.chib@mitaoe.ac.in,+91-7051531811,Male,80.00,95.20,NA,6.05,Resume Updated
+157,202101040197,Ali Sumer Shahed,B.Tech.,Computer Science and Engineering,sumer.ali@mitaoe.ac.in,+91-9011974422,Male,94.80,92.67,NA,9.32,Resume Updated
+158,202101040028,Amrit Shyam Kadbhane,B.Tech.,Computer Science and Engineering,amrit.kadbhane@mitaoe.ac.in,+91-6268172830,NA,92.40,89.60,NA,8.81,Resume Updated
+159,202101040053,Angad Damodar Kharate,B.Tech.,Computer Science and Engineering,angad.kharate@mitaoe.ac.in,+91-8605665236,Male,95.80,93.67,NA,8.48,Resume Updated
+160,202101040202,Ansari Shubhan Naushad,B.Tech.,Computer Science and Engineering,shubhan.ansari@mitaoe.ac.in,+91-7263075718,Male,89.80,91.83,NA,9.50,Resume Updated
+161,202101040102,Arvinpreet Singh Bali,B.Tech.,Computer Science and Engineering,arvinsingh395@gmail.com,+91-8899521261,Male,97.60,96.00,NA,8.17,Resume Updated
+162,202101040075,Aryan Amit Bhalerao,B.Tech.,Computer Science and Engineering,aryan.bhalerao@mitaoe.ac.in,+91-8080173147,Male,89.80,89.50,NA,6.91,Resume Updated
+163,202101040084,Atharva Arvind Waghmare,B.Tech.,Computer Science and Engineering,atharva.waghmare@mitaoe.ac.in,+91-9022664452,Male,74.40,92.67,NA,7.00,Resume Updated
+164,202101040073,Atharva Ravindra Lokhande,B.Tech.,Computer Science and Engineering,atharva.lokhande@mitaoe.ac.in,+91-9172842290,Male,89.80,83.17,NA,8.09,Resume Updated
+165,202101040021,Ayush Koul,B.Tech.,Computer Science and Engineering,ayushkoul2002@gmail.com,+91-6005780521,Male,84.40,94.40,NA,8.43,Resume Updated
+166,202101040151,Azeem Mohammad Rafik Shaikh,B.Tech.,Computer Science and Engineering,azeem.shaikh@mitaoe.ac.in,+91-7774809906,Male,84.33,70.46,NA,8.75,Resume Updated
+167,202101040193,Bachhav Akash Jivendra,B.Tech.,Computer Science and Engineering,akash.bachhav@mitaoe.ac.in,+91-7507723470,Male,92.20,87.00,NA,9.28,Resume Updated
+168,202101040166,Baderao Visharad Jitendra,B.Tech.,Computer Science and Engineering,visharad.baderao@mitaoe.ac.in,+91-8767041326,Male,83.20,93.17,NA,7.96,Resume Updated
+169,202101040207,Bare Sara Dinesh,B.Tech.,Computer Science and Engineering,sara.bare@mitaoe.ac.in,+91-7499175594,Female,91.50,90.33,NA,8.79,Resume Updated
+170,202101040051,Baviskar Riya Avinash,B.Tech.,Computer Science and Engineering,riya.baviskar@mitaoe.ac.in,+91-7720910855,Female,92.40,93.67,NA,9.14,Resume Updated
+171,202101040133,Belsare Neeraj Sudhendu,B.Tech.,Computer Science and Engineering,neeraj.belsare@mitaoe.ac.in,+91-8605291397,Male,92.00,95.33,NA,9.93,Resume Updated
+172,202101040199,Bhagwat Shivam Namdev,B.Tech.,Computer Science and Engineering,shivam.bhagwat@mitaoe.ac.in,+91-9764677026,Male,91.00,70.62,NA,7.83,Resume Updated
+173,202101040104,Bhawar Shridhar Gajanan,B.Tech.,Computer Science and Engineering,sgbhawar05@gmail.com,+91-9421218250,Male,90.40,90.00,NA,6.50,Resume Updated
+174,202101040099,Bhonde Vaishnavi Ramesh,B.Tech.,Computer Science and Engineering,vaishnavi.bhonde@mitaoe.ac.in,+91-9822868116,Female,82.00,89.00,NA,8.34,Resume Updated
+175,202101040093,Bhosale Dnyaneshwari Uttam,B.Tech.,Computer Science and Engineering,dnyaneshwari.bhosale@mitaoe.ac.in,+91-9518941476,Female,79.40,85.67,NA,7.00,Resume Updated
+176,202101040063,Bhuyar Anuj Shrikant,B.Tech.,Computer Science and Engineering,anuj.bhuyar@mitaoe.ac.in,+91-9021823841,Male,80.00,79.00,NA,7.60,Resume Updated
+177,202101040155,Chaudhari Aditya Bhausaheb,B.Tech.,Computer Science and Engineering,adityab.chaudhari@mitaoe.ac.in,+91-9579702390,Male,90.60,94.83,NA,8.91,Resume Updated
+178,202101040059,Chavhan Sakshi Devchand,B.Tech.,Computer Science and Engineering,sakshi.chavhan@mitaoe.ac.in,+91-7499072615,Female,88.00,91.83,NA,7.14,Resume Updated
+179,202101040046,Chavhan Yash Prakash,B.Tech.,Computer Science and Engineering,yash.chavhan@mitaoe.ac.in,+91-7666293980,Male,84.43,82.33,NA,7.66,Resume Updated
+180,202101040071,Chinmayee Desai,B.Tech.,Computer Science and Engineering,chinmayee.desai@mitaoe.ac.in,+91-9172738523,Female,92.00,82.00,NA,8.20,Resume Updated
+181,202101040241,Chudasama Viraj Jayanti,B.Tech.,Computer Science and Engineering,viraj.chudasama@mitaoe.ac.in,+91-8850702242,Male,67.80,86.60,NA,8.21,Resume Updated
+182,202101040150,Dahale Shripad Kailas,B.Tech.,Computer Science and Engineering,shripad.dahale@mitaoe.ac.in,+91-9890523334,Male,76.00,72.00,NA,8.02,Resume Updated
+183,202101070074,Datir Samriddhi Sandeep,B.Tech.,Computer Science and Engineering,samriddhi.datir@mitaoe.ac.in,+91-8080200588,Female,74.60,75.67,NA,7.76,Resume Updated
+184,202101040064,Deore Mohit Chintaman,B.Tech.,Computer Science and Engineering,mohit.deore@mitaoe.ac.in,+91-7499284459,Male,94.00,84.00,NA,7.70,Resume Updated
+185,202101040223,Derkar Ganesh Ramdas,B.Tech.,Computer Science and Engineering,ganesh.derkar@mitaoe.ac.in,+91-8275655912,Male,72.20,73.08,NA,8.24,Resume Updated
+186,202101040091,Deshmukh Sandip Vijay,B.Tech.,Computer Science and Engineering,sandip.deshmukh@mitaoe.ac.in,+91-9307616700,Male,75.80,86.50,NA,6.72,Resume Updated
+187,0120200569,Deshmukh Saurabh Rajabhau,B.Tech.,Computer Science and Engineering,saurabh.deshmukh@mitaoe.ac.in,+91-9112643163,Male,91.00,79.00,NA,8.37,Resume Updated
+188,202101040243,Dhanwai Aditya Kishor,B.Tech.,Computer Science and Engineering,aditya.dhanwai@mitaoe.ac.in,+91-9421636870,Male,94.20,97.17,NA,9.34,Resume Updated
+189,202101040119,Dheeraj Singh,B.Tech.,Computer Science and Engineering,dheerajsinghbandhral@gmail.com,+91-7051240607,Male,93.80,96.80,NA,8.34,Resume Updated
+190,202202040016,Dhobale Prasad Arun,B.Tech.,Computer Science and Engineering,prasad.dhobale@mitaoe.ac.in,+91-9067404012,Male,85.20,NA,89.33,8.10,Resume Updated
+191,202101040032,Dhonde Aditya Gahininath,B.Tech.,Computer Science and Engineering,aditya.dhonde@mitaoe.ac.in,+91-8605330141,Male,89.60,95.33,NA,9.43,Resume Updated
+192,202202040021,Dhumal Asmita Shivadas,B.Tech.,Computer Science and Engineering,asmita.dhumal@mitaoe.ac.in,+91-9021322994,Female,96.60,NA,92.80,8.84,Resume Updated
+193,202101040070,Dishank Agarwal,B.Tech.,Computer Science and Engineering,dishank.agarwal@mitaoe.ac.in,+91-7877394220,Male,85.00,91.80,NA,7.84,Resume Updated
+194,202101040144,Eamin Jawed Khan,B.Tech.,Computer Science and Engineering,eamin.khan@mitaoe.ac.in,+91-8788090345,Female,95.60,92.00,NA,9.02,Resume Updated
+195,202101040041,Gaikwad Tanavi Prakash,B.Tech.,Computer Science and Engineering,tanavi.gaikwad@mitaoe.ac.in,+91-8956732964,Female,84.00,85.33,NA,7.51,Resume Updated
+196,202101040135,Gangurde Nandini Chandrakant,B.Tech.,Computer Science and Engineering,nandini.gangurde@mitaoe.ac.in,+91-9359531521,Female,91.20,79.80,NA,7.10,Resume Updated
+197,202101040137,Gauri Vinod Kardekar,B.Tech.,Computer Science and Engineering,gauri.kardekar@mitaoe.ac.in,+91-8108493021,Female,94.80,89.40,NA,9.05,Resume Updated
+198,202101040186,Gavali Yashwant Shivaraj,B.Tech.,Computer Science and Engineering,yashwant.gavali@mitaoe.ac.in,+91-9372863752,Male,87.40,83.17,NA,8.64,Resume Updated
+199,202202040009,Gawade Mansi Manohar,B.Tech.,Computer Science and Engineering,mansi.gawade@mitaoe.ac.in,+91-7028738865,Female,85.60,NA,91.80,9.19,Resume Updated
+200,202101040090,Gawade Vedant Vasant,B.Tech.,Computer Science and Engineering,vedant.gawade@mitaoe.ac.in,+91-9673957188,Male,82.00,84.83,NA,7.87,Resume Updated
+201,202101040056,Ghuge Yash Mahadev,B.Tech.,Computer Science and Engineering,yash.ghuge@mitaoe.ac.in,+91-8767550152,Male,74.20,84.33,NA,7.21,Resume Updated
+202,202101040181,Girhe Shruti Sunil,B.Tech.,Computer Science and Engineering,shruti.girhe@mitaoe.ac.in,+91-7249267304,Female,91.60,91.00,NA,9.13,Resume Updated
+203,202101040238,Gorule Prithviraj Sukhdeo,B.Tech.,Computer Science and Engineering,prithviraj.gorule@mitaoe.ac.in,+91-7038661035,Male,81.00,91.50,NA,8.25,Resume Updated
+204,202101040113,Gugale Viraj Vijay,B.Tech.,Computer Science and Engineering,viraj.gugale@mitaoe.ac.in,+91-7620640974,Male,88.40,84.80,NA,NA,Resume Updated
+205,202101040145,Hagawane Shubham Kailas,B.Tech.,Computer Science and Engineering,shubham.hagawane@mitaoe.ac.in,+91-8180904409,Male,89.60,86.50,NA,9.25,Resume Updated
+206,202101040165,Hajare Nikita Vishnu,B.Tech.,Computer Science and Engineering,nikita.hajare@mitaoe.ac.in,+91-9975530632,Female,85.80,90.50,NA,7.51,Resume Updated
+207,202101040209,Halkude Dipak Diliprao,B.Tech.,Computer Science and Engineering,dipak.halkude@mitaoe.ac.in,+91-8837707748,Male,97.40,76.00,NA,9.10,Resume Updated
+208,202202040002,Harer Pankaj Suresh,B.Tech.,Computer Science and Engineering,pankajharer2003@gmail.com,+91-7620505797,Male,92.00,NA,92.00,9.52,Resume Updated
+209,202101040216,Harshvardhan Vijay Patil,B.Tech.,Computer Science and Engineering,harshvardhan.patil@mitaoe.ac.in,+91-7083738373,Male,92.60,84.15,NA,8.85,Resume Updated
+210,202101040203,Hogale Sushil Subhash,B.Tech.,Computer Science and Engineering,sushil.hogale@mitaoe.ac.in,+91-9421668780,Male,91.20,96.00,NA,8.34,Resume Updated
+211,202101040114,Ikanshdeep Singh,B.Tech.,Computer Science and Engineering,ikanshdeep.singh@mitaoe.ac.in,+91-9682115137,Male,89.00,91.40,NA,8.59,Resume Updated
+212,202202040008,Isha Prakash Agrawal,B.Tech.,Computer Science and Engineering,isha.agrawal@mitaoe.ac.in,+91-9307136563,Female,92.83,NA,92.38,8.95,Resume Updated
+213,202101040079,Jadhav Anushka Avinash,B.Tech.,Computer Science and Engineering,anushka.jadhav@mitaoe.ac.in,+91-8010745263,Female,62.00,79.33,NA,7.49,Resume Updated
+214,202101040067,Jadhav Dishant Deepk,B.Tech.,Computer Science and Engineering,dishant.jadhav@mitaoe.ac.in,+91-9518597492,Male,81.60,86.33,NA,7.62,Resume Updated
+215,202101040176,Jadhav Maheshwari Mahadev,B.Tech.,Computer Science and Engineering,maheshwari.jadhav@mitaoe.ac.in,+91-8668559339,Female,97.60,88.33,NA,7.56,Resume Updated
+216,202101040225,Jagruti Dattatray Waje,B.Tech.,Computer Science and Engineering,jagruti.waje@mitaoe.ac.in,+91-9834113179,Female,91.00,85.00,NA,8.31,Resume Updated
+217,202101040206,Jagtap Jaydip Sandip,B.Tech.,Computer Science and Engineering,jaydip.jagtap@mitaoe.ac.in,+91-9075314244,Male,91.60,88.33,NA,8.63,Resume Updated
+218,202101040050,Jagtap Shrihari Santosh,B.Tech.,Computer Science and Engineering,shrihari.jagtap@mitaoe.ac.in,+91-8668202046,Male,91.80,93.37,NA,7.92,Resume Updated
+219,0120190449,Janardhan Madhav Chikale,B.Tech.,Computer Science and Engineering,jmchikale@mitaoe.ac.in,NA,Male,86.20,82.46,NA,8.95,Resume Updated
+220,202101040226,Jangade Om Prashant,B.Tech.,Computer Science and Engineering,om.jangade@mitaoe.ac.in,+91-8087747031,Male,91.00,93.50,NA,8.96,Resume Updated
+221,202101040107,Jay Dilip Shenkar,B.Tech.,Computer Science and Engineering,jay.shenkar@mitaoe.ac.in,+91-7038216032,Male,94.40,83.67,NA,9.03,Resume Updated
+222,202101040065,Jay Sunilkumar Patel,B.Tech.,Computer Science and Engineering,jay.patel@mitaoe.ac.in,+91-7558380404,Male,72.20,73.83,NA,7.18,Resume Updated
+223,202202040022,Jilla Varun Anand,B.Tech.,Computer Science and Engineering,varun.jilla@mitaoe.ac.in,+91-9579503567,Male,69.60,NA,89.20,7.75,Resume Updated
+224,202101040024,Joshi Gauri Mukund,B.Tech.,Computer Science and Engineering,gauri.joshi@mitaoe.ac.in,+91-9518364589,Female,95.00,94.00,NA,8.49,Resume Updated
+225,202101040143,Kamble Kunal Sachin,B.Tech.,Computer Science and Engineering,kunal.kamble@mitaoe.ac.in,+91-8552076633,Male,82.80,88.33,NA,8.30,Resume Updated
+226,202101040089,Kartikeiya Rai,B.Tech.,Computer Science and Engineering,kartikeiya.rai@mitaoe.ac.in,+91-9580549647,Male,94.80,84.60,NA,8.82,Resume Updated
+227,202101040253,Kasale Omkar Pandit,B.Tech.,Computer Science and Engineering,omkarkasle2003@gmail.com,+91-9309315512,Male,82.40,82.33,NA,6.59,Resume Updated
+228,202101040103,Kasat Vedant Pravin,B.Tech.,Computer Science and Engineering,vedant.kasat@mitaoe.ac.in,+91-8830303978,Male,87.60,84.50,NA,8.05,Resume Updated
+229,202101040076,Kasturi Pravin Dive,B.Tech.,Computer Science and Engineering,kasturi.dive@mitaoe.ac.in,+91-8623883172,Female,79.00,75.00,NA,8.04,Resume Updated
+230,202101040161,Kaustubh Dinesh Bhavsar,B.Tech.,Computer Science and Engineering,kaustubh.bhavsar@mitaoe.ac.in,+91-8799955650,Male,95.20,95.33,NA,9.31,Resume Updated
+231,202101040149,Kaustubh Sunil Phatangare,B.Tech.,Computer Science and Engineering,kaustubh.phatangare@mitaoe.ac.in,+91-9822541251,Male,87.60,90.83,NA,9.01,Resume Updated
+232,202101040182,Ketan Jalindar Waje,B.Tech.,Computer Science and Engineering,ketan.waje@mitaoe.ac.in,+91-7350161434,Male,75.40,85.33,NA,5.50,Resume Updated
+233,202101040123,Khamkar Amey Hanmant,B.Tech.,Computer Science and Engineering,amey.khamkar@mitaoe.ac.in,+91-8806198218,Male,88.80,88.33,NA,9.35,Resume Updated
+234,202101040030,Khush Shaileshkumar Patel,B.Tech.,Computer Science and Engineering,khush.patel@mitaoe.ac.in,+91-7020582937,Male,96.40,75.00,NA,8.04,Resume Updated
+235,202101040040,Kodre Prasad Subhash,B.Tech.,Computer Science and Engineering,prasad.kodre@mitaoe.ac.in,+91-7219066871,Male,86.00,96.00,NA,7.83,Resume Updated
+236,202101040237,Kolhe Shriniwas Rajebhau,B.Tech.,Computer Science and Engineering,shriniwas.kolhe@mitaoe.ac.in,+91-9579179723,Male,88.20,87.33,NA,7.72,Resume Updated
+237,202101040180,Kotian Priyanshi Dhananjay,B.Tech.,Computer Science and Engineering,priyanshi.kotian@mitaoe.ac.in,+91-9321459886,Female,91.00,92.17,NA,9.17,Resume Updated
+238,202101060003,Kshirsagar Om Dada,B.Tech.,Computer Science and Engineering,om.kshirsagar@mitaoe.ac.in,+91-8459080361,Male,74.80,90.00,NA,7.82,Resume Updated
+239,202101040171,Kurumkar Rohan Shamkant,B.Tech.,Computer Science and Engineering,rohan.kurumkar@mitaoe.ac.in,+91-9767161003,Male,84.00,93.50,NA,7.67,Resume Updated
+240,202101040214,Kuyate Sakshi Uttam,B.Tech.,Computer Science and Engineering,sakshi.kuyate@mitaoe.ac.in,+91-9168293332,Female,84.60,87.33,NA,9.06,Resume Updated
+241,202101040221,Lahane Arnav Sunil,B.Tech.,Computer Science and Engineering,arnav.lahane@mitaoe.ac.in,+91-9022996727,Male,74.00,95.17,NA,7.63,Resume Updated
+242,202101040218,Lokhande Prasad Ramkrishna,B.Tech.,Computer Science and Engineering,prasad.lokhande@mitaoe.ac.in,+91-7020821353,Male,75.00,86.50,NA,9.26,Resume Updated
+243,202101040159,Mahangare Vaibhav Vijay,B.Tech.,Computer Science and Engineering,vaibhav.mahangare@mitaoe.ac.in,+91-9579229815,Male,93.20,91.00,NA,8.52,Resume Updated
+244,202101040134,Maitreyee Mahesh Deshmukh,B.Tech.,Computer Science and Engineering,maitreyee.deshmukh@mitaoe.ac.in,+91-9960306390,Female,94.20,92.00,NA,9.77,Resume Updated
+245,202101040177,Mandhare Rushikesh Ganesh,B.Tech.,Computer Science and Engineering,rushikesh.mandhare@mitaoe.ac.in,+91-9822396918,Male,91.00,88.83,NA,7.46,Resume Updated
+246,202101040146,Mangesh Sanjay Ghadage,B.Tech.,Computer Science and Engineering,mangesh.ghadage@mitaoe.ac.in,+91-8237686727,Male,92.00,92.63,NA,9.01,Resume Updated
+247,202101040224,Mohanish Ashok Khambadkar,B.Tech.,Computer Science and Engineering,mohanish.khambadkar@mitaoe.ac.in,+91-9403904623,Male,85.00,90.83,NA,8.67,Resume Updated
+248,202101040236,Mohare Omkar Padurang,B.Tech.,Computer Science and Engineering,omkar.mohare@mitaoe.ac.in,+91-9021034784,Male,85.00,86.50,NA,7.94,Resume Updated
+249,202101040048,Mohit Phoolchand Jaiswal,B.Tech.,Computer Science and Engineering,mohit.jaiswal@mitaoe.ac.in,+91-7744002085,Male,73.00,84.67,NA,8.95,Resume Updated
+250,202101040154,Mohit Surendra Lalwani,B.Tech.,Computer Science and Engineering,mohit.lalwani@mitaoe.ac.in,+91-9422414176,Male,88.60,93.33,NA,9.21,Resume Updated
+251,202202040015,Mohite Dipak Balu,B.Tech.,Computer Science and Engineering,dipak.mohite@mitaoe.ac.in,+91-7620318052,Male,83.40,NA,92.00,8.51,Resume Updated
+252,202101040083,More Saurabh Anil,B.Tech.,Computer Science and Engineering,saurabh.more@mitaoe.ac.in,+91-9175809900,Male,60.40,82.83,NA,6.26,Resume Updated
+253,202101070082,Mrinal Gupta,B.Tech.,Computer Science and Engineering,mrinal.gupta@mitaoe.ac.in,+91-8424943858,Male,88.80,84.00,NA,9.48,Resume Updated
+254,202101040200,Musale Jayashri Trembak,B.Tech.,Computer Science and Engineering,jayashri.musale@mitaoe.ac.in,+91-8862080648,Female,92.60,90.00,NA,7.81,Resume Updated
+255,202101040205,Nagdekar Anushk Ravindra,B.Tech.,Computer Science and Engineering,anushk.nagdekar@mitaoe.ac.in,+91-8828264349,Male,86.60,92.00,NA,7.98,Resume Updated
+256,202101090021,Nagne Awdhut Adinath,B.Tech.,Computer Science and Engineering,awdhut.nagne@mitaoe.ac.in,+91-8767367941,Male,71.00,80.50,NA,7.19,Resume Updated
+257,202101040229,Nagrale Prashik Bharat,B.Tech.,Computer Science and Engineering,prashik.nagrale@mitaoe.ac.in,+91-9763233652,Male,90.00,88.30,NA,7.95,Resume Updated
+258,202202040018,Nankar Sanika Eknath,B.Tech.,Computer Science and Engineering,sanika.nankar@mitaoe.ac.in,+91-8421130662,Female,92.00,NA,91.56,9.22,Resume Updated
+259,202202040013,Nikhil S Patil,B.Tech.,Computer Science and Engineering,nikhil.patil@mitaoe.ac.in,+91-9476225032,Male,76.00,NA,84.69,8.19,Resume Updated
+260,202101040037,Omkar Rajaram Patil,B.Tech.,Computer Science and Engineering,omkar.patil@mitaoe.ac.in,+91-9075163821,Male,85.80,93.50,NA,8.64,Resume Updated
+261,202101040204,Ozalwar Aditya Rajesh,B.Tech.,Computer Science and Engineering,aditya.ozalwar@mitaoe.ac.in,+91-9028811084,Male,90.20,96.81,NA,8.74,Resume Updated
+262,202101040110,Paithankar Siddhesh Dinesh,B.Tech.,Computer Science and Engineering,siddheshpaithankar299@gmail.com,+91-7218641519,Male,73.40,91.17,NA,8.36,Resume Updated
+263,202101040124,Panse Akash Sachin,B.Tech.,Computer Science and Engineering,akash.panse@mitaoe.ac.in,+91-8767945091,Male,92.00,90.00,NA,8.15,Resume Updated
+264,202101040251,Parth Rajendra Wattamwar,B.Tech.,Computer Science and Engineering,parth.wattamwar@mitaoe.ac.in,+91-8788363612,Male,92.00,90.33,NA,8.68,Resume Updated
+265,202202040020,Patel Vinit Ashok,B.Tech.,Computer Science and Engineering,vinit.patel@mitaoe.ac.in,+91-8803784784,Male,85.40,NA,92.40,8.86,Resume Updated
+266,202101040125,Patil Pratik Vikas,B.Tech.,Computer Science and Engineering,pratikv.patil@mitaoe.ac.in,+91-9403517945,Male,92.80,89.33,NA,8.72,Resume Updated
+267,202202040019,Patil Rohit Brijlal,B.Tech.,Computer Science and Engineering,rohitb.patil@mitaoe.ac.in,+91-7038874758,Male,92.00,NA,92.06,8.78,Resume Updated
+268,202202040003,Patil Siddhesh Sanjay,B.Tech.,Computer Science and Engineering,siddhesh.patil@mitaoe.ac.in,+91-9325753005,Male,95.60,85.38,91.88,8.89,Resume Updated
+269,202101040178,Pawar Anagha Mohan,B.Tech.,Computer Science and Engineering,anagha.pawar@mitaoe.ac.in,+91-7774079528,Female,84.83,93.83,NA,9.01,Resume Updated
+270,202101040142,Pawar Prathamesh Sunil,B.Tech.,Computer Science and Engineering,prathameshs.pawar@mitaoe.ac.in,+91-9067048365,Male,92.60,72.15,NA,8.35,Resume Updated
+271,202101040049,Pedhekar Sakshi Govind,B.Tech.,Computer Science and Engineering,sakshi.pedhekar@mitaoe.ac.in,+91-9702479081,Female,92.20,95.50,NA,8.31,Resume Updated
+272,202101040148,Pratham Tilakkumar Patharkar,B.Tech.,Computer Science and Engineering,pratham.patharkar@mitaoe.ac.in,+91-7666800906,Male,91.20,100.00,NA,9.04,Resume Updated
+273,202101040029,Prathamesh Shivajirao Darekar,B.Tech.,Computer Science and Engineering,prathamesh.darekar@mitaoe.ac.in,+91-8799937646,Male,92.20,92.50,NA,8.23,Resume Updated
+274,202101040126,Prayag Pradip More,B.Tech.,Computer Science and Engineering,prayag.more@mitaoe.ac.in,+91-8983165969,Male,90.80,91.00,NA,7.81,Resume Updated
+275,202101040039,Pritam Rajendra Gajare,B.Tech.,Computer Science and Engineering,pritam.gajare@mitaoe.ac.in,+91-7720917008,Male,95.40,97.40,NA,9.15,Resume Updated
+276,202101040153,Pritee Ramchandra Shingate,B.Tech.,Computer Science and Engineering,pritee.shingate@mitaoe.ac.in,+91-7499611685,Female,94.20,95.40,NA,8.51,Resume Updated
+277,202101040057,Rahul Malakappa Hiragond,B.Tech.,Computer Science and Engineering,rahul.hiragond@mitaoe.ac.in,+91-8669764970,Male,88.00,91.00,NA,8.86,Resume Updated
+278,202101040187,Rahulwad Shivprasad Mohanrao,B.Tech.,Computer Science and Engineering,shivprasad.rahulwad@mitaoe.ac.in,+91-8605462368,Male,83.80,94.50,NA,7.71,Resume Updated
+279,202101070068,Rai Riya,B.Tech.,Computer Science and Engineering,riya.rai@mitaoe.ac.in,+91-7889189076,Female,86.60,94.50,NA,9.05,Resume Updated
+280,202101040086,Raj Santoshkumar Singh,B.Tech.,Computer Science and Engineering,raj.singh@mitaoe.ac.in,+91-7756082366,Male,66.40,76.00,NA,6.17,Resume Updated
+281,202101040227,Rajmod Vijay Mallu,B.Tech.,Computer Science and Engineering,vijayrajmod211@gmail.com,+91-9049214542,Male,89.00,85.33,NA,8.48,Resume Updated
+282,202101040179,Rajput Ashutosh Vijaysing,B.Tech.,Computer Science and Engineering,ashutosh.rajput@mitaoe.ac.in,+91-8668433220,Male,90.60,72.92,NA,7.99,Resume Updated
+283,202101040121,Rajput Nitesh Hemant,B.Tech.,Computer Science and Engineering,nitesh.rajput@mitaoe.ac.in,+91-7821971099,Male,89.40,87.67,NA,7.84,Resume Updated
+284,202101040096,Ransing Hemangi Santosh,B.Tech.,Computer Science and Engineering,hemangi.ransing@mitaoe.ac.in,+91-9975877187,Female,84.20,87.50,NA,6.17,Resume Updated
+285,202101040255,Raut Deep Arvind,B.Tech.,Computer Science and Engineering,deep.raut@mitaoe.ac.in,+91-8080680314,Male,81.80,81.67,NA,5.88,Resume Updated
+286,202101040078,Rode Abhishek Santosh,B.Tech.,Computer Science and Engineering,abhishek.rode@mitaoe.ac.in,+91-9284538201,Male,79.80,86.00,NA,7.10,Resume Updated
+287,202101040191,Samarp Parasdas Jain,B.Tech.,Computer Science and Engineering,samarp.jain@mitaoe.ac.in,+91-9921153319,Male,90.60,96.00,NA,9.62,Resume Updated
+288,202101040068,Sanchit Hanumant Chavan,B.Tech.,Computer Science and Engineering,sanchit.chavan@mitaoe.ac.in,+91-7222024242,Male,90.20,80.83,NA,7.93,Resume Updated
+289,202101040106,Sanket Chandrabhan Narsale,B.Tech.,Computer Science and Engineering,sanket.narsale@mitaoe.ac.in,+91-8668786812,Male,95.00,75.08,NA,9.55,Resume Updated
+290,202202040011,Sankpal Manasi Gajanan,B.Tech.,Computer Science and Engineering,manasi.sankpal@mitaoe.ac.in,+91-7219854860,Female,89.20,NA,92.17,8.71,Resume Updated
+291,202101040156,Sankpal Shivani Anil,B.Tech.,Computer Science and Engineering,shivani.sankpal@mitaoe.ac.in,+91-9172861821,Female,91.40,92.33,NA,8.48,Resume Updated
+292,202101040058,Satone Amey Manohar,B.Tech.,Computer Science and Engineering,amey.satone@mitaoe.ac.in,+91-7385322887,Male,95.80,96.83,NA,8.82,Resume Updated
+293,202101040069,Satpute Prachi Narayan,B.Tech.,Computer Science and Engineering,prachi.satpute@mitaoe.ac.in,+91-8530336645,Female,72.00,82.00,NA,6.48,Resume Updated
+294,202101040033,Saurabh Shahajirao Pawar,B.Tech.,Computer Science and Engineering,saurabh.pawar@mitaoe.ac.in,+91-7499354346,Male,92.60,90.00,NA,8.91,Resume Updated
+295,202101040077,Shashank Rupesh Patil,B.Tech.,Computer Science and Engineering,shashank.patil@mitaoe.ac.in,+91-7776033828,Male,86.20,84.83,NA,8.00,Resume Updated
+296,202101040035,Shinde Atul Suresh,B.Tech.,Computer Science and Engineering,atul.shinde@mitaoe.ac.in,+91-9356207427,Male,87.20,92.50,NA,8.55,Resume Updated
+297,202202040007,Shinde Jagruti Dilip,B.Tech.,Computer Science and Engineering,jagruti.shinde@mitaoe.ac.in,+91-8830316949,Female,89.20,NA,92.30,9.11,Resume Updated
+298,202101040129,Shinde Rohan Ratilal,B.Tech.,Computer Science and Engineering,rohan.shinde@mitaoe.ac.in,+91-8329766956,Male,74.80,89.50,NA,6.86,Resume Updated
+299,202101040152,Shinde Shrikant Chandrakant,B.Tech.,Computer Science and Engineering,shrikant.shinde@mitaoe.ac.in,+91-8459289424,Male,80.20,88.89,NA,9.24,Resume Updated
+300,202101040138,Shinde Shubham Dhanaji,B.Tech.,Computer Science and Engineering,shubhamd.shinde@mitaoe.ac.in,+91-7666237211,Male,89.80,89.50,NA,8.40,Resume Updated
+301,202202040006,Shinde Yash Hari,B.Tech.,Computer Science and Engineering,yash.shinde@mitaoe.ac.in,+91-7028962690,Male,88.20,NA,91.49,8.22,Resume Updated
+302,202101050031,Shingare Sarvesh Sanjay,B.Tech.,Computer Science and Engineering,sarvesh.shingare@mitaoe.ac.in,+91-7020800359,Male,93.40,95.60,NA,8.76,Resume Updated
+303,202101040108,Shitole Ajinkya Sanjay,B.Tech.,Computer Science and Engineering,ajinkya.shitole@mitaoe.ac.in,+91-7385146885,Male,89.40,91.00,NA,7.52,Resume Updated
+304,202101040055,Shivam Arun Darekar,B.Tech.,Computer Science and Engineering,shivam.darekar@mitaoe.ac.in,+91-8080192678,Male,81.00,85.83,NA,8.15,Resume Updated
+305,202101040162,Shreeja Jiddewar,B.Tech.,Computer Science and Engineering,shreeja.jiddewar@mitaoe.ac.in,+91-9356013080,Female,92.15,97.40,NA,8.41,Resume Updated
+306,202101040054,Shreyas Sudhir Bhosale,B.Tech.,Computer Science and Engineering,shreyas.bhosale@mitaoe.ac.in,+91-8855815170,Male,88.40,87.33,NA,8.88,Resume Updated
+307,202101040025,Shriram Vishnu Kekan,B.Tech.,Computer Science and Engineering,shriram.kekan@mitaoe.ac.in,+91-8208596853,Male,88.80,88.00,NA,9.19,Resume Updated
+308,202101040245,Shruti Biradar,B.Tech.,Computer Science and Engineering,shrutibiradar72003@gmail.com,+91-6283477662,Female,83.80,84.00,NA,8.36,Resume Updated
+309,202101040222,Shruti Milind Dhumal,B.Tech.,Computer Science and Engineering,dhumalshruti5@gmail.com,+91-9422560803,Female,92.00,90.00,NA,9.19,Resume Updated
+310,202101040242,Shrutika Rajendra Jadhav,B.Tech.,Computer Science and Engineering,shrutika.jadhav@mitaoe.ac.in,+91-8788721430,Female,96.20,98.00,NA,9.20,Resume Updated
+311,202101040212,Shwetas Pravin Dhake,B.Tech.,Computer Science and Engineering,shwetas.dhake@mitaoe.ac.in,+91-9765122239,Male,82.00,84.00,NA,8.02,Resume Updated
+312,202101040185,Sonaje Prajjwal Rajendra,B.Tech.,Computer Science and Engineering,prajjwal.sonaje@mitaoe.ac.in,+91-9822359471,Male,93.00,94.50,NA,8.85,Resume Updated
+313,202101040157,Sonawane Pranav Dnyandev,B.Tech.,Computer Science and Engineering,pranav.sonawane@mitaoe.ac.in,+91-7249271363,Male,92.20,94.17,NA,8.60,Resume Updated
+314,202101040031,Sukate Yogesh Laxman,B.Tech.,Computer Science and Engineering,yogesh.sukate@mitaoe.ac.in,+91-7768038206,Male,77.60,83.00,NA,7.61,Resume Updated
+315,202101040062,Sumukh Sourabh Dahale,B.Tech.,Computer Science and Engineering,sumukh.dahale@mitaoe.ac.in,+91-9226345547,Male,84.20,88.67,NA,7.43,Resume Updated
+316,202202040014,Taniya Motiwal,B.Tech.,Computer Science and Engineering,taniya.motiwal@mitaoe.ac.in,+91-8149969320,Female,80.17,NA,89.56,8.48,Resume Updated
+317,202101040052,Tanmay Rajesh Pant,B.Tech.,Computer Science and Engineering,tanmay.pant@mitaoe.ac.in,+91-8975805720,Male,95.00,88.00,NA,7.76,Resume Updated
+318,202101040027,Tanvi Tukaram Pednekar,B.Tech.,Computer Science and Engineering,tanvi.pednekar@mitaoe.ac.in,+91-7083237801,Female,98.20,95.67,NA,9.69,Resume Updated
+319,202101040210,Tanya,B.Tech.,Computer Science and Engineering,tanya.kumari@mitaoe.ac.in,+91-7273800270,Female,95.50,93.00,NA,9.26,Resume Updated
+320,202101040198,Tarushi Khattar,B.Tech.,Computer Science and Engineering,tarushi.khattar@mitaoe.ac.in,+91-7489614979,Female,94.00,90.60,NA,9.45,Resume Updated
+321,202101040082,Tejas Ashok Pingale,B.Tech.,Computer Science and Engineering,tejas.pingale@mitaoe.ac.in,+91-9356800589,Male,94.40,91.80,NA,9.11,Resume Updated
+322,202101040234,Turkar Dhawal Homendrakumar,B.Tech.,Computer Science and Engineering,dhawal.turkar@mitaoe.ac.in,+91-9325866943,Male,91.80,86.96,NA,8.44,Resume Updated
+323,202101040160,Vedant Prakash Mane,B.Tech.,Computer Science and Engineering,vedant.mane@mitaoe.ac.in,+91-8459496218,Male,90.00,94.17,NA,8.37,Resume Updated
+324,202101040112,Vijay Kumar Palsaniya,B.Tech.,Computer Science and Engineering,vijaypalsaniyajaipur@gmail.com,+91-9024970125,Male,84.83,72.20,NA,6.89,Resume Updated
+325,202202040001,Vinayak Mangaldas Bhoir,B.Tech.,Computer Science and Engineering,vinayak.bhoir@mitaoe.ac.in,+91-9168609140,Male,56.60,NA,79.73,7.00,Resume Updated
+326,202101040184,Vipul Pawar,B.Tech.,Computer Science and Engineering,vipul.pawar@mitaoe.ac.in,+91-9822641948,Male,88.00,77.20,NA,7.61,Resume Updated
+327,202101040042,Viraj Raina,B.Tech.,Computer Science and Engineering,viraj.raina@mitaoe.ac.in,+91-8178621941,Male,88.00,89.00,NA,8.53,Resume Updated
+328,202101040097,Vishwajeet Jaysingh Gaikwad,B.Tech.,Computer Science and Engineering,vishwajeet.gaikwad@mitaoe.ac.in,+91-8600942798,Male,90.00,87.00,NA,7.86,Resume Updated
+329,202101040036,Vivek Raj,B.Tech.,Computer Science and Engineering,vivek.raj@mitaoe.ac.in,+91-9970525109,Male,92.60,93.80,NA,8.20,Resume Updated
+330,202202040012,Vyavhare Abhijeet Vidwan,B.Tech.,Computer Science and Engineering,abhijeetvyavhare2003@gmail.com,+91-8080592605,Male,86.40,NA,90.69,8.99,Resume Updated
+331,202101040228,Wadgaonkar Aman Rameshwar,B.Tech.,Computer Science and Engineering,aman.wadgaonkar@mitaoe.ac.in,+91-8446264350,Male,89.80,91.67,NA,8.23,Resume Updated
+332,202101040211,Wadikar Manav Dattatray,B.Tech.,Computer Science and Engineering,manav.wadikar@mitaoe.ac.in,+91-9834155272,Male,78.40,91.50,NA,8.29,Resume Updated
+333,202101040239,Wadile Aadarsh Pravin,B.Tech.,Computer Science and Engineering,aadarsh.wadile@mitaoe.ac.in,+91-9307125772,Male,87.00,92.00,NA,8.51,Resume Updated
+334,202101040188,Wanarase Atharav Kailas,B.Tech.,Computer Science and Engineering,atharva.wanarase@mitaoe.ac.in,+91-9923439107,Male,74.00,90.33,NA,NA,Resume Updated
+335,202202040004,Wath Shreya Dattatraya,B.Tech.,Computer Science and Engineering,shreya.wath@mitaoe.ac.in,+91-8459542868,Female,84.60,NA,91.16,8.05,Resume Updated
+336,202202040010,Yelkar Pratik Kailas,B.Tech.,Computer Science and Engineering,pratik.yelkar@mitaoe.ac.in,+91-8308890959,Male,61.40,NA,76.86,7.38,Resume Updated
+337,202101040190,Zade Suchit Kalidas,B.Tech.,Computer Science and Engineering,suchit.zade@mitaoe.ac.in,+91-8263966110,Male,86.00,89.81,NA,6.22,Resume Updated
+338,202101040147,Zankar Priyanka Bharat,B.Tech.,Computer Science and Engineering,priyanka.zankar@mitaoe.ac.in,+91-7378509422,Female,85.40,90.33,NA,8.55,Resume Updated
+339,202201040169,Bhargav Ravindra Katolkar,B.Tech.,Computer Science and Engineering,bhargav.katolkar@mitaoe.ac.in,+91-7058420766,NA,NA,NA,NA,NA,Invited
+340,202101040061,Bhoknal Shreyas Vasant,B.Tech.,Computer Science and Engineering,shreyas.bhoknal@gmail.com,+91-9923948459,Male,NA,NA,NA,NA,Invited
+341,202101040074,Darkunde Om Sandip,B.Tech.,Computer Science and Engineering,om.darkunde@mitaoe.ac.in,+91-7219179370,Male,NA,NA,NA,NA,Invited
+342,202101040256,Dhakne Ravisagar Vishwanath,B.Tech.,Computer Science and Engineering,ravisagar.dhakne@mitaoe.ac.in,+91-9067013117,Male,NA,NA,NA,NA,Invited
+343,202101050049,Fernandes Alden Canute,B.Tech.,Computer Science and Engineering,adenfernandes2@gmail.com,+91-7887430585,Male,NA,NA,NA,NA,Invited
+344,202101040111,Ghadiyali Dharam Anupkumar,B.Tech.,Computer Science and Engineering,dharamghadiyali792@gmail.com,+91-6351533063,Male,NA,NA,NA,NA,Invited
+345,202101040254,Khamkar Sanket Sanjay,B.Tech.,Computer Science and Engineering,sanket.kumbhar@mitaoe.ac.in,+91-8080400292,Male,NA,NA,NA,NA,Invited
+346,202101040258,Onkar Papinwar Prasad,B.Tech.,Computer Science and Engineering,onkarpapinwar547890@gmail.com,+91-9370923905,Male,NA,NA,NA,NA,Invited
+347,0120180458,Shelke Mayur Lakshman,B.Tech.,Computer Science and Engineering,mlshelke@mitaoe.ac.in,+91-9146564811,Male,NA,NA,NA,NA,Invited
+348,202101040172,Suryawanshi Sai Prakash,B.Tech.,Computer Science and Engineering,sai.suryawanshi@mitaoe.ac.in,+91-9834424278,Male,NA,NA,NA,NA,Invited
+349,202101040252,Tribhuwan Ajay Arun,B.Tech.,Computer Science and Engineering,ajaytribhuwan69@gmail.com,+91-7972592944,Male,NA,NA,NA,NA,Invited
+350,0120180465,Waghmare Himanshu Sunil,B.Tech.,Computer Science and Engineering,hswaghmare@mitaoe.ac.in,+91-9834900089,Male,NA,NA,NA,NA,Invited
+351,202101040173,Wayal Gayatri Namdev,B.Tech.,Computer Science and Engineering,gayatri.wayal@mitaoe.ac.in,+91-9673818138,Female,NA,NA,NA,NA,Invited
+352,0120160064,Zeya Khan,B.Tech.,Computer Science and Engineering,zmkhan@mitaoe.ac.in,+91-9860077609,Male,NA,NA,NA,NA,Invited
+353,202101040257,Aaron Prasad Lingeswaran,B.Tech.,Computer Science and Engineering,aaronprasad.lingeswaran@mitaoe.ac.in,+91-7263090652,Male,NA,NA,NA,NA,Active
+354,202101040120,Aniket Kumar,B.Tech.,Computer Science and Engineering,anikets.kumar@mitaoe.ac.in,+91-9065811938,Male,NA,NA,NA,NA,Active
+355,202101040215,Ashlesha Yogiraj Shivgan,B.Tech.,Computer Science and Engineering,ashlesha.shivgan@mitaoe.ac.in,+91-9422610161,Female,89.20,89.40,NA,NA,Active
+356,202101040208,Asmit Suresh Uike,B.Tech.,Computer Science and Engineering,asmit.uike@mitaoe.ac.in,+91-8080112662,Male,NA,NA,NA,NA,Active
+357,202101040158,Bhosale Akshay Sujitkumar,B.Tech.,Computer Science and Engineering,akshay.bhosale@mitaoe.ac.in,+91-9604995599,Male,96.20,92.50,NA,8.17,Active
+358,202101040085,Chaudhari Aditya Vijay,B.Tech.,Computer Science and Engineering,aditya.chaudhari@mitaoe.ac.in,+91-8788002998,Male,62.20,74.33,NA,7.58,Active
+359,202101040092,Chavan Aditya Sunil,B.Tech.,Computer Science and Engineering,aditya.chavan@mitaoe.ac.in,+91-7276638469,Male,NA,NA,NA,NA,Active
+360,202202040005,Chavan Prachi Ramchandra,B.Tech.,Computer Science and Engineering,prachi.chavan@mitaoe.ac.in,+91-9594514310,Female,60.91,NA,89.41,4.74,Active
+361,202101040217,Chavan Sachin Suresh,B.Tech.,Computer Science and Engineering,sachin.chavan@mitaoe.ac.in,+91-7773951851,Male,NA,NA,NA,8.60,Active
+362,202101040100,Chawake Yeeshank Raju,B.Tech.,Computer Science and Engineering,yeeshank.chawake@mitaoe.ac.in,+91-7030340692,Male,NA,NA,NA,NA,Active
+363,202101040196,Dabhade Soham Hansraj,B.Tech.,Computer Science and Engineering,soham.dabhade@mitaoe.ac.in,+91-8983665215,Male,NA,NA,NA,NA,Active
+364,202101040220,Dhakate Tanmay Dnyaneshwar,B.Tech.,Computer Science and Engineering,tanmayddhakate1@gmail.com,+91-8830938053,Male,95.00,96.33,NA,9.19,Active
+365,202101040167,Gade Kartik Eknath,B.Tech.,Computer Science and Engineering,kartik.gade@mitaoe.ac.in,+91-7755946895,Male,64.00,76.83,NA,5.21,Active
+366,202101040105,Ganesh Hanmant Jadhav,B.Tech.,Computer Science and Engineering,9254gsao@gmail.com,+91-8468813811,Male,NA,NA,NA,NA,Active
+367,0202305040001.,Ganesh Kailas Pakhale,B.Tech.,Computer Science and Engineering,gkpakhale@mitaoe.ac.in,NA,Male,NA,NA,NA,NA,Active
+368,202101040094,Ghanwat Anish Sandeep,B.Tech.,Computer Science and Engineering,anish.ghanwat@mitaoe.ac.in,+91-8080400770,Male,NA,NA,NA,NA,Active
+369,202101040088,Hrugwed Sanjay Zagade,B.Tech.,Computer Science and Engineering,hrugwed.zagade@mitaoe.ac.in,+91-8898382868,Male,NA,NA,NA,NA,Active
+370,202101040170,Jamkhindikar Advait Vikrant,B.Tech.,Computer Science and Engineering,advait.jamkhindikar@mitaoe.ac.in,+91-9021097493,Male,NA,NA,NA,NA,Active
+371,202101040201,Jyoti Rani Jaiprakash Choudhary,B.Tech.,Computer Science and Engineering,jyoti.choudhary@mitaoe.ac.in,+91-9561031261,Female,NA,NA,NA,NA,Active
+372,202202040017,Khambayate Varun Anantkumar,B.Tech.,Computer Science and Engineering,varun.khambayate@mitaoe.ac.in,+91-7769959602,Male,88.60,NA,92.86,NA,Active
+373,202101040136,Khose Abhishek Sandip,B.Tech.,Computer Science and Engineering,abhishek.khose@mitaoe.ac.in,+91-8767629859,Male,NA,NA,NA,NA,Active
+374,202101040141,Kulkarni Prathamesh Umesh,B.Tech.,Computer Science and Engineering,prathamesh.kulkarni@mitaoe.ac.in,+91-8208634924,Male,93.00,83.67,NA,8.44,Active
+375,202101040098,Mahabudhe Mandar Rajesh,B.Tech.,Computer Science and Engineering,mandar.mahabudhe@mitaoe.ac.in,+91-8767446773,Male,NA,NA,NA,NA,Active
+376,202101040248,Mahajan Hitanshu Arun,B.Tech.,Computer Science and Engineering,mahajanhitanshu141@gmail.com,+91-9561020922,Male,86.00,85.00,NA,NA,Active
+377,202101040262,Manish Jitendra Meshram,B.Tech.,Computer Science and Engineering,manish.meshram@mitaoe.ac.in,+91-8605332129,Male,NA,NA,NA,NA,Active
+378,202101040047,Mohod Atharav Ajay,B.Tech.,Computer Science and Engineering,atharv.mohod@mitaoe.ac.in,+91-8468814168,Male,NA,NA,NA,7.49,Active
+379,202101040183,Mote Harsh Nitin,B.Tech.,Computer Science and Engineering,harsh.mote@mitaoe.ac.in,+91-8767498676,Male,92.20,93.67,NA,NA,Active
+380,202101040213,Nathe Onkar Somnath,B.Tech.,Computer Science and Engineering,onkar.nathe@mitaoe.ac.in,+91-9307782833,Male,NA,NA,NA,NA,Active
+381,0120160534,Nishant Kumar,B.Tech.,Computer Science and Engineering,nkumar@mitaoe.ac.in,+91-9113372379,Male,NA,NA,NA,NA,Active
+382,202101040116,Parth Nandu Wani,B.Tech.,Computer Science and Engineering,parthwani22@gmail.com,+91-8275881277,Male,91.80,80.00,NA,7.40,Active
+383,202101040175,Patil Shreyash Purushottam,B.Tech.,Computer Science and Engineering,patil.shreyash@mitaoe.ac.in,+91-9146616818,Male,72.80,58.92,NA,6.16,Active
+384,202101040109,Pattanaik Aryabrat Biswa,B.Tech.,Computer Science and Engineering,aryabrat2003@gmail.com,+91-8329267325,Male,NA,NA,NA,NA,Active
+385,202101040117,Pranjal Sharma,B.Tech.,Computer Science and Engineering,pranjalsharma19dx@gmail.com,+91-9103162166,Female,NA,NA,NA,NA,Active
+386,202101040246,Saee Shamsundar Makrampure,B.Tech.,Computer Science and Engineering,saee.makrampure@mitaoe.ac.in,+91-8888985614,Female,NA,NA,NA,NA,Active
+387,202101040072,Sankalp Balaso Khilari,B.Tech.,Computer Science and Engineering,sankalp.khilari@mitaoe.ac.in,+91-9322616027,Male,87.00,68.00,NA,7.66,Active
+388,202101040095,Shinde Samruddhi Appasaheb,B.Tech.,Computer Science and Engineering,samruddhi.shinde@mitaoe.ac.in,+91-9096288813,Female,NA,NA,NA,NA,Active
+389,202101040259,Thakur Isha Jitendra,B.Tech.,Computer Science and Engineering,isha.thakur@mitaoe.ac.in,+91-7972460819,Female,NA,NA,NA,NA,Active
+390,202101040087,Tidke Kovil Tejbahadur,B.Tech.,Computer Science and Engineering,kovil.tidke@mitaoe.ac.in,+91-9325817687,Male,NA,NA,NA,NA,Active
+391,202302040007,Ujjwal Pramod Nimbokar,B.Tech.,Computer Science and Engineering,202302040007@mitaoe.ac.in,+91-9156180238,Male,94.80,NA,90.95,NA,Active
+392,202101040101,Ved Vaze,B.Tech.,Computer Science and Engineering,ved.vaze@mitaoe.ac.in,+91-7709284060,Male,NA,NA,NA,NA,Active
+393,202101040122,Wagh Vaibhav Babasaheb,B.Tech.,Computer Science and Engineering,vaibhav.wagh@mitaoe.ac.in,+91-7447257398,Male,90.80,92.83,NA,8.25,Active
+394,202101040066,Warade Rushikesh Dilip,B.Tech.,Computer Science and Engineering,rushikesh.warade@mitaoe.ac.in,+91-9860770463,Male,NA,NA,NA,NA,Active
+395,202202040023,Zanzane Kaveri Ratilal,B.Tech.,Computer Science and Engineering,kaveri.zanzane@mitaoe.ac.in,+91-8010881918,Female,NA,NA,NA,NA,Active
+396,202101070183,Abdul Muqueet Sahil,B.Tech.,Electronics and Telecommunication Engineering,abdul.sahil@mitaoe.ac.in,+91-9503558690,Male,81.80,70.60,NA,7.33,Resume Updated
+397,202101070155,Abhijay Patil,B.Tech.,Electronics and Telecommunication Engineering,abhijay.patil@mitaoe.ac.in,+91-8390775316,Male,86.00,93.00,NA,7.31,Resume Updated
+398,202101070059,Abhishek Somnath Kumbhar,B.Tech.,Electronics and Telecommunication Engineering,abhishek.kumbhar@mitaoe.ac.in,+91-7558567381,Male,66.00,84.17,NA,7.13,Resume Updated
+399,0120200386,Aditya Ramchandra Kadam,B.Tech.,Electronics and Telecommunication Engineering,aditya.kadam@mitaoe.ac.in,NA,Male,91.80,77.38,NA,NA,Resume Updated
+400,202101070199,Ambure Yogita Vithal,B.Tech.,Electronics and Telecommunication Engineering,yogita.ambure@mitaoe.ac.in,+91-7666645657,Female,84.80,92.50,NA,8.71,Resume Updated
+401,202101070103,Amrutkar Girish Anil,B.Tech.,Electronics and Telecommunication Engineering,girish.amrutkar@mitaoe.ac.in,+91-9503007889,Male,93.40,91.40,NA,8.03,Resume Updated
+402,202101070067,Ansari Sayem Md Shah Alam,B.Tech.,Electronics and Telecommunication Engineering,sayem.ansari@mitaoe.ac.in,+91-8010293557,Male,68.97,76.66,NA,7.32,Resume Updated
+403,202101070112,Anushka Bhayaji Parkhi,B.Tech.,Electronics and Telecommunication Engineering,anushka.parkhi@mitaoe.ac.in,+91-8468804814,Female,89.40,91.00,NA,8.75,Resume Updated
+404,202101090122,Aryan Kumar,B.Tech.,Electronics and Telecommunication Engineering,aryanyadav9576@gmail.com,+91-8969291129,Male,10.00,69.80,NA,7.98,Resume Updated
+405,202101070196,Awari Nilesh Suresh,B.Tech.,Electronics and Telecommunication Engineering,nilesh.awari@mitaoe.ac.in,+91-7666152831,Male,62.70,77.17,NA,7.62,Resume Updated
+406,202101070094,Awari Omkar Dnyaneshwar,B.Tech.,Electronics and Telecommunication Engineering,omkar.awari@mitaoe.ac.in,+91-9145015775,Male,95.40,90.20,NA,8.20,Resume Updated
+407,202101070141,Bangar Aishwarya Ajinath,B.Tech.,Electronics and Telecommunication Engineering,aishwarya.bangar@mitaoe.ac.in,+91-7588198664,Female,87.40,81.33,NA,8.29,Resume Updated
+408,202101070165,Battalwadikar Shruti Irawant,B.Tech.,Electronics and Telecommunication Engineering,shruti.battalwadikar@mitaoe.ac.in,+91-9067976076,Female,84.60,79.83,NA,7.10,Resume Updated
+409,202101070154,Bhande Pratiksha Sunil,B.Tech.,Electronics and Telecommunication Engineering,pratiksha.bhande@mitaoe.ac.in,+91-9359935319,Female,83.20,80.17,NA,NA,Resume Updated
+410,202101070189,Bhise Jayesh Janardhan,B.Tech.,Electronics and Telecommunication Engineering,jayesh.bhise@mitaoe.ac.in,+91-9604389415,Male,76.20,95.00,NA,7.00,Resume Updated
+411,202101070121,Bhoite Sahil Arun,B.Tech.,Electronics and Telecommunication Engineering,sahil.bhoite@mitaoe.ac.in,+91-9673832433,Male,75.88,83.67,NA,7.11,Resume Updated
+412,202101070118,Bhosale Abhishek Sanjay,B.Tech.,Electronics and Telecommunication Engineering,abhishek.bhosale@mitaoe.ac.in,+91-7517592324,Male,89.60,93.60,NA,8.85,Resume Updated
+413,202101070104,Bhumkar Parth Dinesh,B.Tech.,Electronics and Telecommunication Engineering,parth.bhumkar@mitaoe.ac.in,+91-8623881280,Male,89.20,89.20,NA,7.75,Resume Updated
+414,202101070182,Bhute Prathmesh Chandrakant,B.Tech.,Electronics and Telecommunication Engineering,prathmesh.bhute@mitaoe.ac.in,+91-8975452903,Male,95.20,91.00,NA,7.73,Resume Updated
+415,202101070136,Chaitanya Mahesh Gabhane,B.Tech.,Electronics and Telecommunication Engineering,chaitanya.gabhane@mitaoe.ac.in,+91-7249497290,Male,91.40,98.00,NA,7.60,Resume Updated
+416,202101070212,Chame Nikhil Ramakant,B.Tech.,Electronics and Telecommunication Engineering,nikhilchame03@gmail.com,+91-8983003309,Male,76.80,70.00,NA,7.12,Resume Updated
+417,202101070157,Chaudhari Radhika Niranjan,B.Tech.,Electronics and Telecommunication Engineering,radhika.chaudhari@mitaoe.ac.in,+91-7058294359,Female,88.80,93.83,NA,8.22,Resume Updated
+418,202101070053,Chavan Prerna Punjaji,B.Tech.,Electronics and Telecommunication Engineering,prerna.chavan@mitaoe.ac.in,+91-9307706487,Female,85.40,76.00,NA,8.68,Resume Updated
+419,202101070109,Chopane Ashlesha Sunil,B.Tech.,Electronics and Telecommunication Engineering,ashlesha.chopane@mitaoe.ac.in,+91-9579443061,Female,85.40,92.67,NA,8.41,Resume Updated
+420,202101070166,Dabade Swapnil Dashrath,B.Tech.,Electronics and Telecommunication Engineering,swapnil.dabade@mitaoe.ac.in,+91-9112204671,Male,92.00,94.00,NA,8.76,Resume Updated
+421,202202070008,Deore Om Dhananjay,B.Tech.,Electronics and Telecommunication Engineering,om.deore@mitaoe.ac.in,+91-9175747458,Male,85.40,NA,85.60,8.10,Resume Updated
+422,202101070114,Deshmukh Sakshi Kailas,B.Tech.,Electronics and Telecommunication Engineering,deshmukh.sakshi@mitaoe.ac.in,+91-8999070153,Female,95.00,97.00,NA,8.36,Resume Updated
+423,202101070058,Deshmukh Vruksheeka Vijay,B.Tech.,Electronics and Telecommunication Engineering,vruksheeka.deshmukh@mitaoe.ac.in,+91-8975979604,Female,96.80,86.15,NA,8.63,Resume Updated
+424,202101070181,Deshmukh Yogiraj Satish,B.Tech.,Electronics and Telecommunication Engineering,yogiraj.deshmukh@mitaoe.ac.in,+91-8010323348,Male,85.40,90.17,NA,7.72,Resume Updated
+425,202101060013,Dhondge Shriniwas Balasaheb,B.Tech.,Electronics and Telecommunication Engineering,shriniwas.dhondge@mitaoe.ac.in,+91-8177933360,Male,83.40,91.00,NA,8.04,Resume Updated
+426,202101070156,Dipak Shinde,B.Tech.,Electronics and Telecommunication Engineering,dipak.shinde@mitaoe.ac.in,+91-9579516412,Male,91.40,85.20,NA,7.77,Resume Updated
+427,202101070151,Ekbote Shounak Suhas,B.Tech.,Electronics and Telecommunication Engineering,shounak.ekbote@mitaoe.ac.in,+91-8446620150,Male,86.00,81.00,NA,7.25,Resume Updated
+428,202101070062,Gaikwad Swastik Shantaram,B.Tech.,Electronics and Telecommunication Engineering,swastik.gaikwad@mitaoe.ac.in,+91-9657280050,Male,83.60,88.50,NA,8.75,Resume Updated
+429,202101070205,Gajare Aditya Avinash,B.Tech.,Electronics and Telecommunication Engineering,adityagajare278@gmail.com,+91-7774975948,Male,94.20,70.62,NA,6.79,Resume Updated
+430,202101070142,Gandhi Shravani Gajanan,B.Tech.,Electronics and Telecommunication Engineering,shravani.gandhi@mitaoe.ac.in,+91-9604353341,Female,94.20,85.00,NA,9.12,Resume Updated
+431,202101070159,Garud Shruti Vishwasrao,B.Tech.,Electronics and Telecommunication Engineering,shruti.garud@mitaoe.ac.in,+91-9405606929,Female,91.60,94.50,NA,8.49,Resume Updated
+432,202101070171,Gaurav Rahate,B.Tech.,Electronics and Telecommunication Engineering,gaurav.rahate@mitaoe.ac.in,+91-8390588444,Male,74.50,92.80,NA,7.64,Resume Updated
+433,202101070115,Ghodke Ashlesh Maruti,B.Tech.,Electronics and Telecommunication Engineering,ashlesh.ghodke@mitaoe.ac.in,+91-9890322926,Male,88.80,86.33,NA,7.91,Resume Updated
+434,202101070203,Ghom Sagarika Arvind,B.Tech.,Electronics and Telecommunication Engineering,sagarika.ghom@mitaoe.ac.in,+91-9370743990,Female,95.00,92.67,NA,8.91,Resume Updated
+435,202101070119,Gore Aniket Krishna,B.Tech.,Electronics and Telecommunication Engineering,aniket.gore@mitaoe.ac.in,+91-9960618330,Male,87.00,77.33,NA,7.74,Resume Updated
+436,202101070184,Gundawar Gargi Atul,B.Tech.,Electronics and Telecommunication Engineering,gargi.gundawar@mitaoe.ac.in,+91-7666192870,Female,95.60,97.83,NA,9.09,Resume Updated
+437,202101070162,Hiwarkar Vaidehi Jitendra,B.Tech.,Electronics and Telecommunication Engineering,vaidehi.hiwarkar@mitaoe.ac.in,+91-7249898507,Female,94.40,94.60,NA,9.17,Resume Updated
+438,202101070194,Hulule Riya Dyaneshwar,B.Tech.,Electronics and Telecommunication Engineering,riya.hulule@mitaoe.ac.in,+91-8356846225,Female,86.00,82.00,NA,8.17,Resume Updated
+439,202101070131,Jadhav Harshada Siddheshwar,B.Tech.,Electronics and Telecommunication Engineering,harshada.jadhav@mitaoe.ac.in,+91-9699624011,Female,93.40,93.40,NA,8.64,Resume Updated
+440,202101070185,Jadhav Tejas Santaji,B.Tech.,Electronics and Telecommunication Engineering,tejas-jadhav@mitaoe.ac.in,+91-9422316415,Male,93.00,84.00,NA,7.78,Resume Updated
+441,202101070127,Jain Dnyaneshwari Jitendra,B.Tech.,Electronics and Telecommunication Engineering,dnyaneshwari.jain@mitaoe.ac.in,+91-7219670015,Female,93.00,72.00,NA,7.47,Resume Updated
+442,202101070125,Kakad Samruddhi Ajay,B.Tech.,Electronics and Telecommunication Engineering,samruddhi.kakad@mitaoe.ac.in,+91-9561894479,Female,94.00,95.00,NA,7.72,Resume Updated
+443,202101070054,Kale Janhavi Rajesh,B.Tech.,Electronics and Telecommunication Engineering,janhavir.kale@mitaoe.ac.in,+91-7030204242,Female,74.40,61.38,NA,NA,Resume Updated
+444,202101070187,Kale Sakshi Vijay,B.Tech.,Electronics and Telecommunication Engineering,sakshi.kale@mitaoe.ac.in,+91-7057839705,Female,80.60,92.00,NA,8.62,Resume Updated
+445,202101070173,Khobragade Arya Ravindra,B.Tech.,Electronics and Telecommunication Engineering,arya.khobragade@mitaoe.ac.in,+91-8623077082,Female,78.80,91.83,NA,NA,Resume Updated
+446,202101070097,Kolhe Ronak Ravindra,B.Tech.,Electronics and Telecommunication Engineering,ronak.kolhe@mitaoe.ac.in,+91-9579769040,Male,72.00,82.33,NA,6.27,Resume Updated
+447,202101090107,Lahare Om Kishor,B.Tech.,Electronics and Telecommunication Engineering,om.lahare@mitaoe.ac.in,+91-9307267696,Male,86.80,89.50,NA,8.18,Resume Updated
+448,202101070193,Laibar Sakshi Narendra,B.Tech.,Electronics and Telecommunication Engineering,sakshi.laibar@mitaoe.ac.in,+91-9284736313,Female,93.00,91.50,NA,8.63,Resume Updated
+449,202101070211,Mahajan Martand Manoj,B.Tech.,Electronics and Telecommunication Engineering,martand.mahajan@mitaoe.ac.in,+91-9604983552,Male,86.80,92.67,NA,9.20,Resume Updated
+450,202101070164,Mahek Lakshman Mahto,B.Tech.,Electronics and Telecommunication Engineering,mahek.mahto@mitaoe.ac.in,+91-8530974479,Female,89.00,87.70,NA,6.90,Resume Updated
+451,202101070060,Makhar Krushna Dattatray,B.Tech.,Electronics and Telecommunication Engineering,krushna.makhar@mitaoe.ac.in,+91-9545337421,Male,82.40,87.83,NA,7.54,Resume Updated
+452,202101070204,Manikpuri Ajay Narendra,B.Tech.,Electronics and Telecommunication Engineering,ajay.manikpuri@mitaoe.ac.in,+91-7888253610,Male,85.00,77.69,NA,6.99,Resume Updated
+453,202101070202,Mhatre Atharv Satish,B.Tech.,Electronics and Telecommunication Engineering,atharv.mhatre@mitaoe.ac.in,+91-9307551779,Male,78.19,85.17,NA,5.91,Resume Updated
+454,202101070140,Mitkari Ajay Shrihari,B.Tech.,Electronics and Telecommunication Engineering,ajay.mitkari@mitaoe.ac.in,+91-9172650993,Male,92.00,62.46,NA,6.93,Resume Updated
+455,202101070174,Momin Faraj Firoj,B.Tech.,Electronics and Telecommunication Engineering,faraj.momin@mitaoe.ac.in,+91-9011639067,Male,88.20,76.80,NA,7.40,Resume Updated
+456,202101070102,More Ashitosh Rajendra,B.Tech.,Electronics and Telecommunication Engineering,ashitosh.more@mitaoe.ac.in,+91-8329637663,Male,80.40,91.17,NA,7.52,Resume Updated
+457,202101070143,Mulewar Siddhi Mahesh,B.Tech.,Electronics and Telecommunication Engineering,siddhi.mulewar@mitaoe.ac.in,+91-9112075559,Female,87.60,89.83,NA,8.56,Resume Updated
+458,202101050025,Mundhe Pragati Gajanan,B.Tech.,Electronics and Telecommunication Engineering,pragati.mundhe@mitaoe.ac.in,+91-9322285550,Female,95.80,91.00,NA,8.92,Resume Updated
+459,202101070087,Mungase Sanika Krishna,B.Tech.,Electronics and Telecommunication Engineering,sanika.mungase@mitaoe.ac.in,+91-9637993032,Female,77.00,91.00,NA,7.04,Resume Updated
+460,202101070208,Musale Atharv Mahesh,B.Tech.,Electronics and Telecommunication Engineering,atharv.musale@mitaoe.ac.in,+91-9284994455,Male,79.60,84.33,NA,7.38,Resume Updated
+461,202101070107,Naik Atul Sudhakar,B.Tech.,Electronics and Telecommunication Engineering,atul.naik@mitaoe.ac.in,+91-9657195891,Male,79.20,78.33,NA,6.75,Resume Updated
+462,202101070083,Naik Parag Yashwant,B.Tech.,Electronics and Telecommunication Engineering,parag.naik@mitaoe.ac.in,+91-7249128149,Male,80.00,93.00,NA,7.32,Resume Updated
+463,202101070148,Nandurkar Suyash Sunil,B.Tech.,Electronics and Telecommunication Engineering,suyash.nandurkar@mitaoe.ac.in,+91-7517726423,Male,60.60,80.17,NA,7.75,Resume Updated
+464,202101070099,Nehere Sahil Manoj,B.Tech.,Electronics and Telecommunication Engineering,sahil.nehere@mitaoe.ac.in,+91-9011689456,Male,50.40,83.50,NA,6.50,Resume Updated
+465,202101070075,Nimbalkar Harshvardhan Bapuji,B.Tech.,Electronics and Telecommunication Engineering,harshvardhan.nimbalkar@mitaoe.ac.in,+91-8007429165,Male,94.40,91.10,NA,7.87,Resume Updated
+466,202101070113,Patel Mohammad Kaif Suleman,B.Tech.,Electronics and Telecommunication Engineering,mohammad.patel@mitaoe.ac.in,+91-8421110614,Male,73.60,78.81,NA,6.80,Resume Updated
+467,202101070209,Patil Ajinkya Nanasaheb,B.Tech.,Electronics and Telecommunication Engineering,pajinkya872@gmail.com,+91-7219482318,Male,81.00,85.67,NA,7.17,Resume Updated
+468,202101070201,Patil Payal Sharad,B.Tech.,Electronics and Telecommunication Engineering,payal.patil@mitaoe.ac.in,+91-9322367982,Female,72.00,86.17,NA,6.25,Resume Updated
+469,202202070016,Patil Rohit Abhijit,B.Tech.,Electronics and Telecommunication Engineering,rohit.patil@mitaoe.ac.in,+91-8261074745,Male,86.00,NA,86.23,7.90,Resume Updated
+470,202101070106,Patil Rushikesh Manik,B.Tech.,Electronics and Telecommunication Engineering,rushikesh.patil@mitaoe.ac.in,+91-7875075327,Male,80.00,87.17,NA,8.02,Resume Updated
+471,202101070149,Patil Vitthal Janardan,B.Tech.,Electronics and Telecommunication Engineering,vitthal.patil@mitaoe.ac.in,+91-7875704778,Male,87.20,91.00,NA,7.51,Resume Updated
+472,202101070186,Prathmesh Pradip Satpute,B.Tech.,Electronics and Telecommunication Engineering,prathmesh.satpute@mitaoe.ac.in,+91-7774966903,Male,78.80,80.83,NA,8.33,Resume Updated
+473,202202070017,Rakte Prerna Sambhaji,B.Tech.,Electronics and Telecommunication Engineering,prerna.rakte@mitaoe.ac.in,+91-7558320509,Female,86.00,NA,86.00,8.83,Resume Updated
+474,202101070122,Revati Mane,B.Tech.,Electronics and Telecommunication Engineering,revati-mane@mitaoe.ac.in,+91-9503463661,Female,61.60,72.60,NA,6.85,Resume Updated
+475,202101060045,Runwal Yuvraj Atul,B.Tech.,Electronics and Telecommunication Engineering,yuvraj.runwal@mitaoe.ac.in,+91-8080264913,Male,91.60,91.33,NA,8.94,Resume Updated
+476,202101070169,Sakshi Suryakant Paste,B.Tech.,Electronics and Telecommunication Engineering,sakshi.paste@mitaoe.ac.in,+91-9404930735,Female,84.60,76.00,NA,8.05,Resume Updated
+477,0120200082,Sakshi Vitthal Shilawane,B.Tech.,Electronics and Telecommunication Engineering,sakshi.shilawane@mitaoe.ac.in,NA,Female,85.00,72.00,NA,6.40,Resume Updated
+478,202101070153,Sarade Akanksha Annasaheb,B.Tech.,Electronics and Telecommunication Engineering,akanksha.sarade@mitaoe.ac.in,+91-9730922180,Female,84.40,90.83,NA,7.61,Resume Updated
+479,202101070108,Sawalkar Vedant Vinod,B.Tech.,Electronics and Telecommunication Engineering,vedant.sawalkar@mitaoe.ac.in,+91-7887320222,Male,90.60,91.33,NA,8.01,Resume Updated
+480,202101070206,Shaikh Rumman Rafique,B.Tech.,Electronics and Telecommunication Engineering,rumman.shaikh@mitaoe.ac.in,+91-9867074932,Male,76.00,85.50,NA,7.86,Resume Updated
+481,202101070197,Shinde Pranjali Mahesh,B.Tech.,Electronics and Telecommunication Engineering,pranjali.shinde@mitaoe.ac.in,+91-8806268562,Female,94.60,92.83,NA,9.10,Resume Updated
+482,202101070061,Siddhant Kiran Tayade,B.Tech.,Electronics and Telecommunication Engineering,siddhant.tayade@mitaoe.ac.in,+91-9075119055,Male,73.60,73.20,NA,7.10,Resume Updated
+483,202101070195,Sisodiya Madhur Rajendra,B.Tech.,Electronics and Telecommunication Engineering,madhur.sisodiya@mitaoe.ac.in,+91-9673340163,Male,85.00,88.30,NA,7.67,Resume Updated
+484,202101070176,Solanke Mithilesh Mohanrao,B.Tech.,Electronics and Telecommunication Engineering,mithilesh.solanke@mitaoe.ac.in,+91-9022580487,Male,87.20,94.67,NA,7.89,Resume Updated
+485,202101070079,Sonune Gayatri Ajay,B.Tech.,Electronics and Telecommunication Engineering,gayatri.sonune@mitaoe.ac.in,+91-8830924345,Female,84.00,90.67,NA,7.06,Resume Updated
+486,202101070098,Sreyash Chavan,B.Tech.,Electronics and Telecommunication Engineering,sreyash.chavan@mitaoe.ac.in,+91-8459848781,Male,90.00,78.00,NA,7.57,Resume Updated
+487,202101070134,Sudke Aniket Sudhakar,B.Tech.,Electronics and Telecommunication Engineering,aniket.sudke@mitaoe.ac.in,+91-8668482479,Male,93.00,96.67,NA,8.00,Resume Updated
+488,202101070192,Suhas Audumbar Asabe,B.Tech.,Electronics and Telecommunication Engineering,suhas.asabe@mitaoe.ac.in,+91-9322530866,Male,91.60,79.00,NA,8.20,Resume Updated
+489,202101070160,Supekar Kunal Anant,B.Tech.,Electronics and Telecommunication Engineering,kunal.supekar@mitaoe.ac.in,+91-8767655747,Male,90.60,94.00,NA,9.22,Resume Updated
+490,202101070139,Takate Chetan Mahesh,B.Tech.,Electronics and Telecommunication Engineering,chetan.takate@mitaoe.ac.in,+91-9561935235,Male,91.80,95.16,NA,8.10,Resume Updated
+491,202101070120,Thakare Sanika Mahendra,B.Tech.,Electronics and Telecommunication Engineering,sanika.thakare@mitaoe.ac.in,+91-8793182606,Female,93.00,90.00,NA,7.72,Resume Updated
+492,202101060015,Thorkar Akshata Sharad,B.Tech.,Electronics and Telecommunication Engineering,akshata.thorkar@mitaoe.ac.in,+91-8975940986,Female,90.40,97.67,NA,9.07,Resume Updated
+493,202101070179,Vipul Lad,B.Tech.,Electronics and Telecommunication Engineering,vipul.lad@mitaoe.ac.in,+91-8263816499,Male,84.20,72.10,NA,7.74,Resume Updated
+494,202101070191,Vishal Yadav,B.Tech.,Electronics and Telecommunication Engineering,vishal.yadav@mitaoe.ac.in,+91-7972038728,Male,79.80,76.00,NA,8.08,Resume Updated
+495,202101070152,Wanare Pranav Vasant,B.Tech.,Electronics and Telecommunication Engineering,pranav.wanare@mitaoe.ac.in,+91-7264896882,Male,77.20,85.17,NA,8.13,Resume Updated
+496,202101070101,Wandre Sujit Annapa,B.Tech.,Electronics and Telecommunication Engineering,sujit.wandre@mitaoe.ac.in,+91-8767305127,Male,90.80,81.67,NA,7.61,Resume Updated
+497,202101070188,Wani Tanuja Vijay,B.Tech.,Electronics and Telecommunication Engineering,tanuja.wani@mitaoe.ac.in,+91-8855879211,Female,90.80,91.67,NA,8.96,Resume Updated
+498,202101070133,Yadav Aarya Abhay,B.Tech.,Electronics and Telecommunication Engineering,aarya.yadav@mitaoe.ac.in,+91-9373764449,Female,94.33,88.17,NA,8.53,Resume Updated
+499,202101070091,Yagya Solanki,B.Tech.,Electronics and Telecommunication Engineering,yagya.solanki@mitaoe.ac.in,+91-9462639869,Male,89.33,85.00,NA,8.51,Resume Updated
+500,202101070150,Yogesh Trimbakraj Chopade,B.Tech.,Electronics and Telecommunication Engineering,yogesh.chopade@mitaoe.ac.in,+91-9423247170,Male,91.00,81.00,NA,8.60,Resume Updated
+501,202202070013,Ambhore Abhinay Mahadev,B.Tech.,Electronics and Telecommunication Engineering,abhinav.ambhore@mitaoe.ac.in,+91-9503816403,Male,NA,NA,NA,NA,Invited
+502,202101070172,Gaikwad Sandesh Shivaji,B.Tech.,Electronics and Telecommunication Engineering,sandesh.gaikwad@mitaoe.ac.in,+91-7588933220,Male,NA,NA,NA,NA,Invited
+503,202101070066,Gala Karan Dhiraj,B.Tech.,Electronics and Telecommunication Engineering,karan.gala@mitaoe.ac.in,+91-9137436632,Male,NA,NA,NA,NA,Invited
+504,202105070001,Jadhav Megha Ram,B.Tech.,Electronics and Telecommunication Engineering,megha.jadhav@mitaoe.ac.in,+91-7028419275,Female,NA,NA,NA,NA,Invited
+505,202101070145,Karwa Netal Pavan,B.Tech.,Electronics and Telecommunication Engineering,netal.karwa@mitaoe.ac.in,+91-8637742231,Female,NA,NA,NA,NA,Invited
+506,202202070010,Mane Abhay Arvind,B.Tech.,Electronics and Telecommunication Engineering,abhay.mane@mitaoe.ac.in,+91-7620180054,Male,NA,NA,NA,NA,Invited
+507,0120170241,Pranay Pralhad Wahane,B.Tech.,Electronics and Telecommunication Engineering,ppwahane@mitaoe.ac.in,+91-7972193985,Male,NA,NA,NA,NA,Invited
+508,202101070138,Waphare Darshan Dadabhau,B.Tech.,Electronics and Telecommunication Engineering,darshan.waphare@mitaoe.ac.in,+91-9307143153,Male,NA,NA,NA,NA,Invited
+509,202101070089,Akshar Mangesh Kulkarni,B.Tech.,Electronics and Telecommunication Engineering,akshar.kulkarni@mitaoe.ac.in,+91-8668203271,Male,86.00,84.00,NA,8.13,Active
+510,0202101070091,Akshay Bandu Bandu Patil,B.Tech.,Electronics and Telecommunication Engineering,akshay.patil@mitaoe.ac.in,NA,NA,NA,NA,NA,NA,Active
+511,0120200470,Ayush Ajay Zile,B.Tech.,Electronics and Telecommunication Engineering,ayush.zile@mitaoe.ac.in,+91-9075820436,Male,NA,NA,NA,NA,Active
+512,202202070006,Badhel Richa Raman,B.Tech.,Electronics and Telecommunication Engineering,richa.badhel@mitaoe.ac.in,+91-9158075260,Female,NA,NA,NA,NA,Active
+513,202202070005,Badhel Riddhi Raman,B.Tech.,Electronics and Telecommunication Engineering,riddhi.badhel@mitaoe.ac.in,+91-7276054941,Female,NA,NA,NA,NA,Active
+514,202202070004,Bhaleghare Sakshi Rohidas,B.Tech.,Electronics and Telecommunication Engineering,sakshi.bhaleghare@mitaoe.ac.in,+91-8625960067,Female,NA,NA,NA,NA,Active
+515,202202070018,Bhimanpallewar Shantanu Shankarrao,B.Tech.,Electronics and Telecommunication Engineering,shantanu.bhimanpallewar@mitaoe.ac.in,+91-7219759645,Male,NA,NA,NA,NA,Active
+516,202202070001,Chaugule Sakshi Raju,B.Tech.,Electronics and Telecommunication Engineering,sakshichaugule0308@gmail.com,+91-8080825135,Female,NA,NA,NA,NA,Active
+517,202101070146,Dukare Tanvi Dharmendra,B.Tech.,Electronics and Telecommunication Engineering,tanvi.dukare@mitaoe.ac.in,+91-8767837217,Female,NA,NA,NA,7.40,Active
+518,202101070088,Fulari Mihir Sanjay,B.Tech.,Electronics and Telecommunication Engineering,mihir.fulari@mitaoe.ac.in,+91-8626033960,Male,NA,NA,NA,NA,Active
+519,202101070111,Girase Piyush Ravindra,B.Tech.,Electronics and Telecommunication Engineering,piyush.girase@mitaoe.ac.in,+91-9421570865,Male,82.60,92.33,NA,8.69,Active
+520,202101070110,Gohatre Ayush Pramod,B.Tech.,Electronics and Telecommunication Engineering,ayush.gohatre@mitaoe.ac.in,+91-9307249581,Male,77.00,86.00,NA,6.69,Active
+521,202101070123,Gopal Balasaheb Badge,B.Tech.,Electronics and Telecommunication Engineering,gopal.badge@mitaoe.ac.in,+91-9325820919,Male,NA,NA,NA,NA,Active
+522,202101070084,Halmare Sanket Suresh,B.Tech.,Electronics and Telecommunication Engineering,sankethalmare15@gmail.com,+91-9405091889,Male,91.80,89.00,NA,7.75,Active
+523,202101070132,Holkar Yashraj,B.Tech.,Electronics and Telecommunication Engineering,yashraj.holkar@mitaoe.ac.in,+91-8767144409,Male,91.60,80.60,NA,8.59,Active
+524,202101070090,Inamdar Ajinkya Mahesh,B.Tech.,Electronics and Telecommunication Engineering,ajinkya.inamdar@mitaoe.ac.in,+91-8600234175,Male,NA,NA,NA,NA,Active
+525,202101070124,Jadhav Sairam Balasaheb,B.Tech.,Electronics and Telecommunication Engineering,sairam.jadhav@mitaoe.ac.in,+91-7841996607,Male,NA,NA,NA,8.09,Active
+526,202101070063,Jawadwar Sahil Sunil,B.Tech.,Electronics and Telecommunication Engineering,sahil.jawadwar@mitaoe.ac.in,+91-7666908508,Male,NA,NA,NA,NA,Active
+527,202202070011,Karambelkar Shravani Shrikant,B.Tech.,Electronics and Telecommunication Engineering,shravanikarambelkar16@gmail.com,+91-7758050169,Female,NA,NA,NA,NA,Active
+528,202202070014,Kawade Vaibhav Shivaji,B.Tech.,Electronics and Telecommunication Engineering,vaibhav.kawade@mitaoe.ac.in,+91-9130601015,Male,NA,NA,NA,NA,Active
+529,202101070064,Kulkarni Mrunal Manoj,B.Tech.,Electronics and Telecommunication Engineering,mrunal.kulkarni@mitaoe.ac.in,+91-9834747346,Male,NA,NA,NA,NA,Active
+530,202101070167,Lad Vyankatesh Dinkar,B.Tech.,Electronics and Telecommunication Engineering,vyankatesh.lad@mitaoe.ac.in,+91-7875540671,Male,NA,NA,NA,NA,Active
+531,202101070105,Lokhande Prathmesh Anil,B.Tech.,Electronics and Telecommunication Engineering,prathmesh.lokhande@mitaoe.ac.in,+91-9423185043,Male,NA,NA,NA,NA,Active
+532,202202070003,Mali Sakshi Ravindra,B.Tech.,Electronics and Telecommunication Engineering,sakshi.mali@mitaoe.ac.in,+91-9172953146,Female,NA,NA,NA,NA,Active
+533,202101070071,Nikita Rajednra Bhojane,B.Tech.,Electronics and Telecommunication Engineering,nikita.bhojane@mitaoe.ac.in,+91-8010038176,Female,NA,NA,NA,NA,Active
+534,202101070077,Patil Ahuti Ganeshbhai,B.Tech.,Electronics and Telecommunication Engineering,ahuti.patil@mitaoe.ac.in,+91-9313503050,Female,NA,NA,NA,NA,Active
+535,202202070009,Patil Dhruv Dharmendra,B.Tech.,Electronics and Telecommunication Engineering,dhruv.patil@mitaoe.ac.in,+91-9975860009,Male,NA,NA,NA,NA,Active
+536,202101070207,Patil Gauri Balaji,B.Tech.,Electronics and Telecommunication Engineering,gauri.patil@mitaoe.ac.in,+91-9623076681,Female,96.00,94.33,NA,7.59,Active
+537,202202070012,Patil Kshitija Balkrushna,B.Tech.,Electronics and Telecommunication Engineering,kshitija.patil@mitaoe.ac.in,+91-7822058722,Female,NA,NA,NA,NA,Active
+538,202101070117,Patil Omkar Shivaji,B.Tech.,Electronics and Telecommunication Engineering,omkars.patil@mitaoe.ac.in,+91-9356554891,Male,NA,NA,NA,NA,Active
+539,202101070073,Pisal Pratik Mahadev,B.Tech.,Electronics and Telecommunication Engineering,pratik.pisal@mitaoe.ac.in,+91-9699843038,Male,NA,NA,NA,NA,Active
+540,012020557,Pragati Pandurang Ingale,B.Tech.,Electronics and Telecommunication Engineering,pragati.ingale@mitaoe.ac.in,+91-9322784270,Female,NA,NA,NA,NA,Active
+541,202101070210,Ranawade Prathamesh Dinesh,B.Tech.,Electronics and Telecommunication Engineering,prathamesh.ranawade@mitaoe.ac.in,+91-9604844682,Male,NA,NA,NA,NA,Active
+542,202101070135,Shrigondekar Lavlesh Sanjay,B.Tech.,Electronics and Telecommunication Engineering,lavlesh.shrigondekar@mitaoe.ac.in,+91-8767603107,Male,NA,NA,NA,NA,Active
+543,202101070070,Shrivastava Sanika Sanjeev,B.Tech.,Electronics and Telecommunication Engineering,sanika.shrivastava@mitaoe.ac.in,+91-8975825300,Female,86.50,91.20,NA,NA,Active
+544,202101070057,Sirsat Aditya Sanjay,B.Tech.,Electronics and Telecommunication Engineering,sirsataagnesh@gmail.com,+91-7499029914,Male,NA,NA,NA,NA,Active
+545,202101070096,Snehal Patil,B.Tech.,Electronics and Telecommunication Engineering,snehal.patil@mitaoe.ac.in,+91-8767407802,Female,NA,NA,NA,NA,Active
+546,202202070002,Snehal Valmik Avhad,B.Tech.,Electronics and Telecommunication Engineering,snehal.avhad@mitaoe.ac.in,+91-7775004967,Female,NA,NA,NA,NA,Active
+547,202101070076,Tanmay Tekchand Patle,B.Tech.,Electronics and Telecommunication Engineering,tanmay.patle@mitaoe.ac.in,+91-8412914045,Male,NA,NA,NA,NA,Active
+548,202101070158,Turupkar Dipanshu Sahadev,B.Tech.,Electronics and Telecommunication Engineering,dipanshu.turupkar@mitaoe.ac.in,+91-7276038633,Male,89.00,87.33,NA,6.07,Active
+549,202101070126,Upasani Shreyas Prasanna,B.Tech.,Electronics and Telecommunication Engineering,shreyas.upasani@mitaoe.ac.in,+91-7249755597,Male,94.60,94.00,NA,9.12,Active
+550,202101070065,Utkarsh Kishor Nemade,B.Tech.,Electronics and Telecommunication Engineering,utkarsh.nemade@mitaoe.ac.in,+91-8624087510,Male,NA,NA,NA,NA,Active
+551,202101070190,Utkarsha Shatrughna Chaukhe,B.Tech.,Electronics and Telecommunication Engineering,utkarsha.chaukhe@mitaoe.ac.in,+91-8857818753,Female,71.60,81.83,NA,NA,Active
+552,202101070081,Vaidya Charu Manohar,B.Tech.,Electronics and Telecommunication Engineering,charu.vaidya@mitaoe.ac.in,+91-7447685873,Female,NA,NA,NA,NA,Active
+553,202202070015,Wagh Pragati Laxman,B.Tech.,Electronics and Telecommunication Engineering,pragati.wagh@mitaoe.ac.in,+91-8080172759,Female,86.60,NA,86.06,NA,Active
+554,202101070128,Yadav Prathamesh Santosh,B.Tech.,Electronics and Telecommunication Engineering,prathamesh.yadav@mitaoe.ac.in,+91-7498033810,Male,NA,NA,NA,NA,Active
+555,202101070052,Yarmulkar Saurabh Babanrao,B.Tech.,Electronics and Telecommunication Engineering,saurabh.yarmulkar@mitaoe.ac.in,+91-8625048931,Male,82.40,86.00,NA,7.71,Active
+556,202101060035,Abhare Manasi Yashwant,B.Tech.,Electronics Engineering,manasi.abhare@mitaoe.ac.in,+91-8669818303,Female,85.00,92.33,NA,8.15,Resume Updated
+557,202101060017,Abhir M Kherde,B.Tech.,Electronics Engineering,abhir.kherde@mitaoe.ac.in,+91-7249342467,Male,93.60,86.60,NA,8.03,Resume Updated
+558,202101060052,Ajeet Verma,B.Tech.,Electronics Engineering,ajeetverma.sings2003@gmail.com,+91-8855014016,Male,62.40,77.60,NA,8.17,Resume Updated
+559,202101060005,Chapade Sujyot Sunil,B.Tech.,Electronics Engineering,sujyot.chapade@mitaoe.ac.in,+91-7559307648,Male,82.00,97.50,NA,7.91,Resume Updated
+560,202101060022,Chaudhari Kaushik Santosh,B.Tech.,Electronics Engineering,kaushik.chaudhari@mitaoe.ac.in,+91-9403837891,Male,78.80,82.83,NA,7.56,Resume Updated
+561,202202060003,Chaudhari Kaustubh Dinesh,B.Tech.,Electronics Engineering,kaustubh.chaudhari@mitaoe.ac.in,+91-8600946197,Male,79.00,NA,84.18,7.47,Resume Updated
+562,202101060009,Chaudhari Shrawani Dipak,B.Tech.,Electronics Engineering,shrawani.chaudhari@mitaoe.ac.in,+91-8237244216,Female,91.00,94.00,NA,8.37,Resume Updated
+563,202101090108,Dahatonde Shreya Navanath,B.Tech.,Electronics Engineering,shreya.dahatonde@mitaoe.ac.in,+91-9420950767,Female,84.40,81.00,NA,7.25,Resume Updated
+564,202101060023,Deshpande Vedant Sanjay,B.Tech.,Electronics Engineering,vedant.deshpande@mitaoe.ac.in,+91-7447597900,Male,80.40,87.33,NA,6.86,Resume Updated
+565,202202060006,Gadalkar Meghana Gorakh,B.Tech.,Electronics Engineering,meghana.gadalkar@mitaoe.ac.in,+91-9145303838,Female,87.80,NA,82.17,8.96,Resume Updated
+566,202101060034,Hukare Siddhant Rajesh,B.Tech.,Electronics Engineering,siddhant.hukare@mitaoe.ac.in,+91-9359445184,Male,72.40,85.17,NA,5.91,Resume Updated
+567,202101060011,Ingole Richa Suresh,B.Tech.,Electronics Engineering,richa.ingole@mitaoe.ac.in,+91-9527807803,Female,70.40,89.90,NA,7.98,Resume Updated
+568,202101060033,Kashid Shubhangi Anurath,B.Tech.,Electronics Engineering,shubhangi.kashid@mitaoe.ac.in,+91-9028329294,Female,87.00,68.62,NA,7.49,Resume Updated
+569,202101060038,Mane Sandhya Tanaji,B.Tech.,Electronics Engineering,sandhya.mane@mitaoe.ac.in,+91-8625829029,Female,71.80,75.17,NA,5.22,Resume Updated
+570,202202060013,Mathapati Sukanya Kishor,B.Tech.,Electronics Engineering,sukanya.mathapati@mitaoe.ac.in,+91-8408045328,Female,84.80,NA,81.13,8.19,Resume Updated
+571,202101060020,Nare Shruti Suresh,B.Tech.,Electronics Engineering,shruti.nare@mitaoe.ac.in,+91-9923476567,Female,88.20,87.17,NA,7.49,Resume Updated
+572,202202060018,Patil Prasad Namdev,B.Tech.,Electronics Engineering,prasadn.patil@mitaoe.ac.in,+91-9130620169,Male,83.40,NA,84.34,7.66,Resume Updated
+573,202101060043,Ramyata Rohan Mendhe,B.Tech.,Electronics Engineering,ramyata.mendhe@mitaoe.ac.in,+91-8291001145,Female,94.20,90.20,NA,8.65,Resume Updated
+574,202101060018,Saloni Sanjay Pujari,B.Tech.,Electronics Engineering,saloni.pujari@mitaoe.ac.in,+91-9545828477,Female,85.04,84.80,NA,7.93,Resume Updated
+575,202101050024,Sanap Nikhil Dattatray,B.Tech.,Electronics Engineering,nikhil.sanap@mitaoe.ac.in,+91-9403414903,Male,67.80,81.17,NA,6.42,Resume Updated
+576,202202060008,Sarwade Jyoti Shahuraj,B.Tech.,Electronics Engineering,jyoti.sarwade@mitaoe.ac.in,+91-9359473040,Female,83.60,NA,80.39,7.98,Resume Updated
+577,202101060019,Sathe Prachi Abaso,B.Tech.,Electronics Engineering,prachi.sathe@mitaoe.ac.in,+91-8999853586,Female,90.00,89.00,NA,6.60,Resume Updated
+578,202101050006,Shewale Divya Prakash,B.Tech.,Electronics Engineering,divya.shewale@mitaoe.ac.in,+91-9370476578,Female,88.60,90.50,NA,8.43,Resume Updated
+579,202101060014,Shinde Vaishnavi Vasant,B.Tech.,Electronics Engineering,vaishnavi.shinde@mitaoe.ac.in,+91-9356820392,Female,79.00,89.00,NA,7.34,Resume Updated
+580,202101060008,Shreyansh Khokale,B.Tech.,Electronics Engineering,shreyansh.khokale@mitaoe.ac.in,+91-7841806979,Male,10.00,74.40,NA,7.89,Resume Updated
+581,202101060016,Shreyash Sahadeo Rojatkar,B.Tech.,Electronics Engineering,shreyash.rojatkar@mitaoe.ac.in,+91-7387285066,Male,75.00,85.83,NA,6.85,Resume Updated
+582,202101060041,Singh Gaurav Dushyant,B.Tech.,Electronics Engineering,gaurav.singh@mitaoe.ac.in,+91-7720021273,Male,73.60,92.67,NA,6.53,Resume Updated
+583,202202060001,Ture Omkar Dinesh,B.Tech.,Electronics Engineering,omkar.ture@mitaoe.ac.in,+91-9518707802,Male,81.40,NA,83.37,8.48,Resume Updated
+584,202202060014,Tushar Dnyaneshwar Suryawanshi,B.Tech.,Electronics Engineering,tushar.suryawanshi@mitaoe.ac.in,+91-8625006998,Male,79.20,NA,79.20,8.01,Resume Updated
+585,202101060040,Varade Suyash Nikhil,B.Tech.,Electronics Engineering,suyash.varade@mitaoe.ac.in,+91-9322672030,Male,61.20,80.50,NA,7.40,Resume Updated
+586,202202060004,Wagh Darshan Rajendra,B.Tech.,Electronics Engineering,darshan.wagh@mitaoe.ac.in,+91-8080062649,Male,84.20,NA,83.50,7.53,Resume Updated
+587,202101060012,Wakhare Mayur Ramesh,B.Tech.,Electronics Engineering,mayur.wakhare@mitaoe.ac.in,+91-9359469951,Male,89.00,89.33,NA,7.82,Resume Updated
+588,202202060009,Wasekar Abhilash Manik,B.Tech.,Electronics Engineering,abhilash.wasekar@mitaoe.ac.in,+91-7030838291,Male,69.60,72.15,82.38,8.44,Resume Updated
+589,202101060053,Bafna Mohit Dinesh Kumar,B.Tech.,Electronics Engineering,bafnamohit4@gmail.com,+91-8432843274,Male,NA,NA,NA,NA,Invited
+590,202101060042,Bari Chetan Sharad,B.Tech.,Electronics Engineering,chrtan.bari@mitaoe.ac.in,+91-9623771795,Male,NA,NA,NA,NA,Invited
+591,202101060028,Biradar Prasad Rameshrao,B.Tech.,Electronics Engineering,prasad.biradar@mitaoe.ac.in,+91-9373845698,Male,NA,NA,NA,NA,Invited
+592,0120200094,Desai Indrajit Sunil,B.Tech.,Electronics Engineering,indrajit.desai@mitaoe.ac.in,+91-9021654113,Male,NA,NA,NA,NA,Invited
+593,202101060030,Girase Venkatesh Umesh,B.Tech.,Electronics Engineering,venkatesh.girase@mitaoe.ac.in,+91-9325782945,Male,NA,NA,NA,NA,Invited
+594,202101060027,Thakare Aryan Prashant,B.Tech.,Electronics Engineering,aryan.thakare@mitaoe.ac.in,+91-7387753443,Male,NA,NA,NA,NA,Invited
+595,202101060006,Zaware Jaidev Sharad,B.Tech.,Electronics Engineering,jaidev.zaware@mitaoe.ac.in,+91-9356861561,Male,NA,NA,NA,NA,Invited
+596,202101060055,Aditya Raj,B.Tech.,Electronics Engineering,raj.aditya@mitaoe.ac.in,+91-8210415207,Male,NA,NA,NA,NA,Active
+597,202101060010,Agrawal Sahil Prakash,B.Tech.,Electronics Engineering,sahil.agrawal@mitaoe.ac.in,+91-9175833468,Male,NA,NA,NA,NA,Active
+598,202101060031,Atharv Anilrao Satghare,B.Tech.,Electronics Engineering,atharv.satghare@mitaoe.ac.in,+91-7822816074,Male,48.00,72.67,NA,6.53,Active
+599,202101060021,Bade Saurabh Shivaji,B.Tech.,Electronics Engineering,saurabh.bade@mitaoe.ac.in,+91-7720802208,Male,NA,NA,NA,NA,Active
+600,0120200318,Bagde Harshal Raju,B.Tech.,Electronics Engineering,harshal.bagde@mitaoe.ac.in,+91-9021868900,Male,NA,NA,NA,NA,Active
+601,202202060015,Barule Akshata Sanjay,B.Tech.,Electronics Engineering,akshata.barule@mitaoe.ac.in,+91-8999538548,Female,NA,NA,NA,NA,Active
+602,202101060001,Durge Lucky Sureshrao,B.Tech.,Electronics Engineering,lucky.durge@mitaoe.ac.in,+91-9175157754,Male,NA,NA,NA,NA,Active
+603,202101090055,Hanwate Mayur Vishnurao,B.Tech.,Electronics Engineering,mayur.hanwate@mitaoe.ac.in,+91-9834922607,Male,NA,NA,NA,NA,Active
+604,202202060002,Hiwale Ashish Dnyaneshwar,B.Tech.,Electronics Engineering,ashish.hiwale@mitaoe.ac.in,+91-7219080170,Male,NA,NA,NA,NA,Active
+605,202101060007,Ishan Pawar,B.Tech.,Electronics Engineering,ishan.pawar@mitaoe.ac.in,+91-7610779607,Male,NA,NA,NA,NA,Active
+606,202101060046,Jaiswal Swaridh Manoj,B.Tech.,Electronics Engineering,swaridh.jaiswal@mitaoe.ac.in,+91-7588747229,Male,NA,NA,NA,NA,Active
+607,202101060002,Jamthe Sarthak Sandeep,B.Tech.,Electronics Engineering,sarthak.jamthe@mitaoe.ac.in,+91-7709518383,Male,NA,NA,NA,NA,Active
+608,202202060005,Kadam Sayali Baliram,B.Tech.,Electronics Engineering,sayalibk16@gmail.com,+91-9834229132,Female,NA,NA,NA,NA,Active
+609,202101060032,Kasar Sudarshan Kailas,B.Tech.,Electronics Engineering,sudarshan.kasar@mitaoe.ac.in,+91-9527966496,Male,NA,NA,NA,NA,Active
+610,202202060012,Kawade Varun Ramesh,B.Tech.,Electronics Engineering,varun.kawade@mitaoe.ac.in,+91-7507821837,Male,NA,NA,NA,NA,Active
+611,202101060025,Kunghadkar Tatpar Rajeshwar,B.Tech.,Electronics Engineering,tatpar.kunghadkar@mitaoe.ac.in,+91-8308958731,Male,NA,NA,NA,NA,Active
+612,202202060016,Mahakale Shreyash Pundlik,B.Tech.,Electronics Engineering,shreyash.mahakale@mitaoe.ac.in,+91-9307000151,Male,NA,NA,NA,NA,Active
+613,202101060004,Mishra Harsh Rameshchandra,B.Tech.,Electronics Engineering,harsh.mishra@mitaoe.ac.in,+91-9867150257,Male,NA,NA,NA,NA,Active
+614,0120190096,Nageshwar Krishnakant Chandrakant,B.Tech.,Electronics Engineering,kcnageshwar@mitaoe.ac.in,+91-8668850385,Male,NA,NA,NA,NA,Active
+615,202101030003,Padalkar Prajwal Prabhakar,B.Tech.,Electronics Engineering,prajwal.padalkar@mitaoe.ac.in,+91-8408953466,Male,NA,NA,NA,NA,Active
+616,202202060010,Pathan Adbelkhan Aslamkhan,B.Tech.,Electronics Engineering,adbelkhan.pathan@mitaoe.ac.in,+91-9175703789,Male,NA,NA,NA,NA,Active
+617,202101060037,Purohit Anay Sureshkumar,B.Tech.,Electronics Engineering,anay.purohit@mitaoe.ac.in,+91-9021845500,Male,NA,NA,NA,NA,Active
+618,202101060049,Sahane Ruchita Shivaji,B.Tech.,Electronics Engineering,ruchita.sahane@mitaoe.ac.in,+91-8956082801,Female,NA,NA,NA,NA,Active
+619,202101060036,Sarwade Sumit Shrimant,B.Tech.,Electronics Engineering,sumit.sarwade@mitaoe.ac.in,+91-9130871164,Male,NA,NA,NA,NA,Active
+620,202101060050,Shewani Kunal Jyotiprakash,B.Tech.,Electronics Engineering,kunal.shewani@mitaoe.ac.in,+91-9511707701,Male,NA,NA,NA,8.12,Active
+621,202202060007,Sul Vaibhav Uttam,B.Tech.,Electronics Engineering,vaibhav.sul@mitaoe.ac.in,+91-9766123595,Male,NA,NA,NA,NA,Active
+622,202101060054,Sumit Pannalal Verma,B.Tech.,Electronics Engineering,sumitpverma33@gmail.com,+91-8767192591,Male,NA,NA,NA,NA,Active
+623,202101060039,Surung Abhinav Ramesh,B.Tech.,Electronics Engineering,abhinav.surung@mitaoe.ac.in,+91-9913507000,Male,NA,NA,NA,NA,Active
+624,0120190579,Wagh Chaitanya Shrihari,B.Tech.,Electronics Engineering,cswagh@mitaoe.ac.in,+91-9284820271,Male,NA,NA,NA,6.20,Active
+625,0120200119,Agrawal Tarun Navinchandra,B.Tech.,Information Technology,tarun.agrawal@mitaoe.ac.in,+91-7507353653,Male,NA,NA,NA,NA,Invited
+626,202202090067,Adarkar Sneha Satish,B.Tech.,Mechanical Engineering,snheha.adarkar@mitaoe.ac.in,+91-9075250787,Female,76.20,NA,78.00,6.30,Resume Updated
+627,202202090061,Aditya Rajendra Patil,B.Tech.,Mechanical Engineering,adityar.patil@mitaoe.ac.in,+91-9307395003,Male,75.80,NA,80.95,7.65,Resume Updated
+628,202101090001,Aditya Sandeep Lonkar,B.Tech.,Mechanical Engineering,aditya.lonkar@mitaoe.ac.in,+91-9326895569,Male,87.80,86.50,NA,7.60,Resume Updated
+629,202202090052,Aditya Sunil Nawkar,B.Tech.,Mechanical Engineering,aditya.nawkar@mitaoe.ac.in,+91-7620254078,Male,69.60,NA,81.08,7.87,Resume Updated
+630,202202090030,Ambegaonkar Vaishnavi Vitthalrao,B.Tech.,Mechanical Engineering,vaishnaviambegaonkar@gmail.com,+91-7796340040,Female,73.00,NA,80.92,7.63,Resume Updated
+631,202202090104,Ashwin Dattatray Ghag,B.Tech.,Mechanical Engineering,ashwin.ghag@mitaoe.ac.in,+91-7841954811,Male,68.00,NA,79.08,8.22,Resume Updated
+632,202202090109,Atharv Prashant Kulkarni,B.Tech.,Mechanical Engineering,atharv.kulkarni@mitaoe.ac.in,+91-8080105636,Male,75.00,NA,84.62,8.77,Resume Updated
+633,202101090082,Balolkhan Shakil Rashid,B.Tech.,Mechanical Engineering,balolkhan.rashid@mitaoe.ac.in,+91-8379859500,Male,75.40,62.31,NA,7.06,Resume Updated
+634,202202090029,Bari Gauri Bhagwan,B.Tech.,Mechanical Engineering,gaurisb3@gmail.com,+91-9420436461,Female,76.80,NA,86.77,8.79,Resume Updated
+635,202202090009,Bharti Someshwar Parmeshwar,B.Tech.,Mechanical Engineering,someshwar.bharti@mitaoe.ac.in,+91-8080188251,Male,68.40,NA,74.05,7.34,Resume Updated
+636,202101090010,Bhoir Harsh Hemant,B.Tech.,Mechanical Engineering,harsh.bhoir@mitaoe.ac.in,+91-7249119331,Male,85.80,82.00,NA,8.60,Resume Updated
+637,202101090053,Bhole Ghanshyam Jagdish,B.Tech.,Mechanical Engineering,ghanshyam.bhole@mitaoe.ac.in,+91-7420087124,Male,81.00,84.50,NA,7.67,Resume Updated
+638,202202090114,Bobade Kshitij Dinesh,B.Tech.,Mechanical Engineering,bobadekshitij6@gmail.com,+91-8805943209,Male,65.80,NA,80.97,7.94,Resume Updated
+639,202202090028,Charhate Vishal Mukesh,B.Tech.,Mechanical Engineering,vishal.charhate@mitaoe.ac.in,+91-9309526325,Male,86.20,NA,81.33,8.52,Resume Updated
+640,202202090117,Chavan Pratik Kailas,B.Tech.,Mechanical Engineering,pratikchavan812@gmail.com,+91-9975450477,Male,70.40,NA,76.92,7.58,Resume Updated
+641,202101090048,Chavan Sagar Muralidhar,B.Tech.,Mechanical Engineering,chavan.sagar@mitaoe.ac.in,+91-9850832013,Male,81.80,89.33,NA,7.70,Resume Updated
+642,202202090084,Dalvi Vinayak Fulchand,B.Tech.,Mechanical Engineering,vinayakdalvi72@gmail.com,+91-7378921864,Male,63.80,NA,81.87,8.11,Resume Updated
+643,202202090082,Desai Pratik Sanjay,B.Tech.,Mechanical Engineering,pratik.desai@mitaoe.ac.in,+91-9322251672,Male,91.60,NA,79.97,8.60,Resume Updated
+644,202101090106,Deshmukh Sanika Sunil,B.Tech.,Mechanical Engineering,sanika.deshmukh@mitaoe.ac.in,+91-7972347712,Female,84.40,91.63,NA,8.12,Resume Updated
+645,202202090093,Dhaye Tanmay Vishnu,B.Tech.,Mechanical Engineering,tanmay.dhaye@mitaoe.ac.in,+91-7448054598,Male,76.00,NA,86.00,7.75,Resume Updated
+646,202202090073,Dixit Ritesh Sunil,B.Tech.,Mechanical Engineering,ritesh.dixit@mitaoe.ac.in,+91-8766858741,Male,71.60,NA,81.62,7.62,Resume Updated
+647,202202090066,Gade Rahul Rakesh,B.Tech.,Mechanical Engineering,rahul.gade@mitaoe.ac.in,+91-9834829976,Male,90.80,61.00,79.80,8.08,Resume Updated
+648,202202090062,Gaikwad Arvind Bibhishan,B.Tech.,Mechanical Engineering,arvindgaikwad1312@gmail.com,+91-9766228726,Male,83.20,NA,82.36,7.70,Resume Updated
+649,202202090098,Gaud Santosh Chandrashekhar,B.Tech.,Mechanical Engineering,santosh.gaud@mitaoe.ac.in,+91-8625040764,Male,74.00,NA,80.89,8.63,Resume Updated
+650,0202101090018,Gaurav Sanjay Gajbhiye,B.Tech.,Mechanical Engineering,gaurav.gajbhiye@mitaoe.ac.in,NA,Male,63.60,90.33,NA,7.53,Resume Updated
+651,202202090060,Gautam Mukesh Bhaktraj,B.Tech.,Mechanical Engineering,gautammukesh971@gmail.com,+91-8080504253,Male,82.80,77.50,80.46,9.43,Resume Updated
+652,202202090122,Gawankar Shreyash Pramod,B.Tech.,Mechanical Engineering,shreyash.gawankar@mitaoe.ac.in,+91-9021828074,Male,80.00,NA,82.00,8.43,Resume Updated
+653,202101090005,Gayakhe Mukund Vilas,B.Tech.,Mechanical Engineering,mukund.gayakhe@mitaoe.ac.in,+91-8169121982,Male,87.30,91.10,NA,8.15,Resume Updated
+654,202202090069,Gohel Vinay Nitin,B.Tech.,Mechanical Engineering,vinay.gohel@mitaoe.ac.in,+91-7666120859,Male,88.20,NA,81.80,8.08,Resume Updated
+655,202202090026,Gopal Sanjay Kinholkar,B.Tech.,Mechanical Engineering,gopal.kinholkar@mitaoe.ac.in,+91-7875101290,Male,83.00,NA,76.15,8.73,Resume Updated
+656,202202090063,Gunde Nivant Maroti,B.Tech.,Mechanical Engineering,nivant.gunde@mitaoe.ac.in,+91-7517789001,Male,78.00,NA,86.94,8.40,Resume Updated
+657,202202090068,Jadhao Rajesh Bhimrao,B.Tech.,Mechanical Engineering,rajesh.jadhao@mitaoe.ac.in,+91-7447819913,Male,81.00,NA,78.00,7.10,Resume Updated
+658,202202090043,Joshi Pravin Shivaji,B.Tech.,Mechanical Engineering,pravin.joshi@mitaoe.ac.in,+91-9322980739,Male,82.80,NA,79.80,8.61,Resume Updated
+659,202101090091,Jumbad Prem Badrishwar,B.Tech.,Mechanical Engineering,prem.jumbad@mitaoe.ac.in,+91-8308747625,Male,85.60,88.33,NA,6.13,Resume Updated
+660,202202090092,Kadam Krushna Subhash,B.Tech.,Mechanical Engineering,krushna.kadam@mitaoe.ac.in,+91-9307982866,Male,75.20,NA,82.06,7.30,Resume Updated
+661,202202090006,Kakde Malhari Madhav,B.Tech.,Mechanical Engineering,malhari.kakde@mitaoe.ac.in,+91-8767034596,Male,80.00,NA,83.23,7.30,Resume Updated
+662,202202090079,Kamble Aniket Anil,B.Tech.,Mechanical Engineering,aniketkamble@mitaoe.ac.in,+91-7083226751,Male,71.16,NA,78.31,7.11,Resume Updated
+663,202202090059,Kaple Sanket Mukesh,B.Tech.,Mechanical Engineering,sanketkaple30@gmail.com,+91-9921522045,Male,87.60,NA,85.00,7.84,Resume Updated
+664,0202101090013,Karan Satish Gawali,B.Tech.,Mechanical Engineering,karan.gawali@mitaoe.ac.in,+91-7507339009,Male,78.80,79.17,NA,7.00,Resume Updated
+665,202101090044,Kate Shivkumar Bharat,B.Tech.,Mechanical Engineering,shivkumar.kate@mitaoe.ac.in,+91-9960295325,Male,83.60,86.67,NA,6.61,Resume Updated
+666,202101090079,Kayangude Akash Santosh,B.Tech.,Mechanical Engineering,akash.kayangude@mitaoe.ac.in,+91-9156573172,Male,72.60,76.20,NA,6.33,Resume Updated
+667,202101090104,Khokle Aniket Shaling,B.Tech.,Mechanical Engineering,aniket.khokle@mitaoe.ac.in,+91-7620938060,Male,92.60,88.50,NA,6.19,Resume Updated
+668,202101090101,Kodlinge Pravin Bhagwat,B.Tech.,Mechanical Engineering,pravin.kodlinge@mitaoe.ac.in,+91-9623349634,Male,47.10,79.33,NA,4.90,Resume Updated
+669,202202090089,Kota Somesh Sharad,B.Tech.,Mechanical Engineering,somesh.kota@mitaoe.ac.in,+91-9325636459,Male,70.40,79.49,NA,7.29,Resume Updated
+670,202202090054,Mahajan Aayush Chandrakant,B.Tech.,Mechanical Engineering,aayush.mahajan@mitaoe.ac.in,+91-8605826876,Male,85.20,NA,83.33,8.57,Resume Updated
+671,202101090046,Mahajan Tanmay Vasudev,B.Tech.,Mechanical Engineering,tanmay.mahajan@mitaoe.ac.in,+91-8080728051,Male,78.00,77.00,NA,8.09,Resume Updated
+672,202202090091,Mankar Mohit Someshwar,B.Tech.,Mechanical Engineering,mohit.mankar@mitaoe.ac.in,+91-9307009794,Male,84.20,NA,83.28,9.03,Resume Updated
+673,202202090044,Mansuri Ayaan Sharif,B.Tech.,Mechanical Engineering,ayaan.mansuri@mitaoe.ac.in,+91-9834971298,Male,69.00,NA,86.63,8.80,Resume Updated
+674,202202090039,Mate Santosh Kantilal,B.Tech.,Mechanical Engineering,santosh.mate@mitaoe.ac.in,+91-9158988727,Male,71.80,NA,85.54,8.37,Resume Updated
+675,202202090034,Mhatre Hitesh Devanand,B.Tech.,Mechanical Engineering,hitesh.mhatre@mitaoe.ac.in,+91-8983813715,Male,87.00,NA,89.18,9.32,Resume Updated
+676,202202090012,Mohadikar Sanyukta Pravin,B.Tech.,Mechanical Engineering,sanyukta.mohadikar@mitaoe.ac.in,+91-9309157998,Female,81.00,NA,79.28,7.22,Resume Updated
+677,202202090015,More Abhishek Shrikant,B.Tech.,Mechanical Engineering,abhishek.more@mitaoe.ac.in,+91-9730988565,Male,81.40,NA,85.85,7.54,Resume Updated
+678,202202090025,Morkar Virendrasing Gokul,B.Tech.,Mechanical Engineering,virendrasing.morkar@mitaoe.ac.in,+91-8975878359,Male,82.60,NA,74.60,7.99,Resume Updated
+679,202202090011,Mundhe Navnath Ashok,B.Tech.,Mechanical Engineering,navnath.mundhe@mitaoe.ac.in,+91-8850018343,Male,75.80,NA,78.46,7.41,Resume Updated
+680,202202090035,Nimbalkar Omkar Ganpat,B.Tech.,Mechanical Engineering,omkarnimbalkar@mitaoe.ac.in,+91-7620245393,Male,87.00,NA,88.46,9.29,Resume Updated
+681,202102090022,Ningappa Dadarao Kharatamol,B.Tech.,Mechanical Engineering,ningappa.kharatamol@mitaoe.ac.in,+91-9552208491,Male,67.80,50.46,90.62,7.80,Resume Updated
+682,202202090042,Om Vitthal Manedeshmukh,B.Tech.,Mechanical Engineering,om.manedeshmukh@mitaoe.ac.in,+91-8459212498,Male,87.00,NA,81.44,7.69,Resume Updated
+683,202101090002,Pagar Tanmay Vivek,B.Tech.,Mechanical Engineering,tanmy.pagar@mitaoe.ac.in,+91-9665429378,Male,79.20,87.00,NA,8.15,Resume Updated
+684,202202090095,Pandit Vivek Shivaji,B.Tech.,Mechanical Engineering,vivek.pandit@mitaoe.ac.in,+91-9021097271,Male,77.00,NA,86.00,7.37,Resume Updated
+685,202202090023,Pardeshi Bhavesh Shyamkant,B.Tech.,Mechanical Engineering,bhavesh.pardeshi@mitaoe.ac.in,+91-7820906383,Male,85.40,NA,84.21,6.83,Resume Updated
+686,202202090016,Patare Vaishali Gorakshanath,B.Tech.,Mechanical Engineering,vaishali.patare@mitaoe.ac.in,+91-8080198206,Female,85.20,NA,84.20,8.21,Resume Updated
+687,202202090021,Pathare Aishwarya Sachin,B.Tech.,Mechanical Engineering,aishwarya.pathare@mitaoe.ac.in,+91-9421508456,Female,45.00,NA,79.00,3.73,Resume Updated
+688,202202090121,Patil Kedar Dattatrya,B.Tech.,Mechanical Engineering,kedarpatil12107555@gmail.com,+91-7057895888,Male,79.20,NA,81.30,7.14,Resume Updated
+689,202202090065,Patil Madhuri Vasant,B.Tech.,Mechanical Engineering,madhuri.patil@mitaoe.ac.in,+91-8850155787,Female,89.90,NA,80.00,9.32,Resume Updated
+690,202202090017,Patil Purvaja Pravin,B.Tech.,Mechanical Engineering,purvaja.patil@mitaoe.ac.in,+91-7972036511,Female,83.80,NA,72.52,6.86,Resume Updated
+691,202202090087,Pawar Shravani Chandrashekhar,B.Tech.,Mechanical Engineering,shravani.pawar@mitaoe.ac.in,+91-8999066216,Female,72.60,NA,81.60,6.04,Resume Updated
+692,202202090046,Phirke Abhay Natthu,B.Tech.,Mechanical Engineering,abhay.phirke@mitaoe.ac.in,+91-8668863478,Male,79.40,NA,81.49,8.03,Resume Updated
+693,202202090045,Powar Anant Prakash,B.Tech.,Mechanical Engineering,anant.powar@mitaoe.ac.in,+91-9112620192,Male,75.60,NA,82.21,7.60,Resume Updated
+694,202202090088,Praful Shekhar Gonnade,B.Tech.,Mechanical Engineering,praful.gonnade@mitaoe.ac.in,+91-9145194496,Male,83.40,NA,87.54,7.96,Resume Updated
+695,202202090119,Prajwal Latur,B.Tech.,Mechanical Engineering,prajwal.latur@mitaoe.ac.in,+91-8088028169,Male,70.82,NA,78.00,8.13,Resume Updated
+696,202101090017,Pranav Dilip Bachhav,B.Tech.,Mechanical Engineering,pranav.bachhav@mitaoe.ac.in,NA,Male,74.40,77.83,NA,7.69,Resume Updated
+697,202202090018,Prathamesh Laxman Salve,B.Tech.,Mechanical Engineering,prathamesh.salve@mitaoe.ac.in,+91-9325429282,Male,81.00,NA,78.41,7.73,Resume Updated
+698,202101090097,Prathmesh Rambhau Raut,B.Tech.,Mechanical Engineering,prathmesh.raut@mitaoe.ac.in,+91-9423653301,Male,86.20,62.92,NA,6.96,Resume Updated
+699,202101090007,Raut Sheyash Pandurang,B.Tech.,Mechanical Engineering,shreyash.raut@mitaoe.ac.in,+91-9156711607,Male,84.20,86.17,NA,6.12,Resume Updated
+700,202101090084,Rode Vaishnavi Yogesh,B.Tech.,Mechanical Engineering,vaishnavi.rode@mitaoe.ac.in,+91-8767730230,Female,80.00,94.00,NA,8.89,Resume Updated
+701,202202090108,Rohit Arjun Sawant,B.Tech.,Mechanical Engineering,rohit.sawant@mitaoe.ac.in,+91-7219668993,Male,82.80,NA,76.87,7.00,Resume Updated
+702,202101090095,Salve Mayurakshi Prakash,B.Tech.,Mechanical Engineering,mayurakshi.salve@mitaoe.ac.in,+91-9309535427,Female,89.00,90.17,NA,7.91,Resume Updated
+703,202202090040,Sanap Vaibhav Sudam,B.Tech.,Mechanical Engineering,vaibhav.sanap@mitaoe.ac.in,+91-9657162855,Male,90.60,NA,85.06,8.95,Resume Updated
+704,202101090124,Sanika Santosh Sartape,B.Tech.,Mechanical Engineering,sanikasartape13@gmail.com,+91-9326316055,Female,75.71,72.00,NA,6.35,Resume Updated
+705,202101090105,Saoji Manmath Sujit,B.Tech.,Mechanical Engineering,manmath.saoji@mitaoe.ac.in,+91-9405628451,Male,90.40,93.67,NA,7.30,Resume Updated
+706,202202090024,Satav Sanket Sunil,B.Tech.,Mechanical Engineering,sanket.satav@mitaoe.ac.in,+91-8605199174,Male,76.60,52.46,86.82,7.87,Resume Updated
+707,202202090064,Shende Dishant Raju,B.Tech.,Mechanical Engineering,dishant.shende@mitaoe.ac.in,+91-7972029516,Male,85.40,NA,88.10,8.43,Resume Updated
+708,202202090004,Shirfule Bhushan Shivaji,B.Tech.,Mechanical Engineering,bhushan.shirfule@mitaoe.ac.in,+91-9657719327,Male,85.00,NA,83.85,8.07,Resume Updated
+709,202101090090,Shivankar Sambhaji Appasaheb,B.Tech.,Mechanical Engineering,sambhaji.shivankar@mitaoe.ac.in,+91-9921500477,Male,75.20,84.66,NA,7.03,Resume Updated
+710,202202090048,Solanki Pranay Prakash,B.Tech.,Mechanical Engineering,pranay.solanki@mitaoe.ac.in,+91-8180932604,Male,83.40,NA,81.90,8.32,Resume Updated
+711,0202101090015,Suryakant Ishwar Atkare,B.Tech.,Mechanical Engineering,suryakant.atkare@mitaoe.ac.in,+91-9766652819,Male,88.40,86.33,NA,8.53,Resume Updated
+712,202101090098,Suryawanshi Sachin Rajkumar,B.Tech.,Mechanical Engineering,sachin.suryawanshi@mitaoe.ac.in,+91-8390602271,Male,67.20,87.83,NA,5.30,Resume Updated
+713,202202090074,Talmale Dhruve,B.Tech.,Mechanical Engineering,dhruve.talmale@mitaoe.ac.in,+91-9373301991,Male,70.00,NA,80.00,8.23,Resume Updated
+714,202202090116,Tanmay Subhash Khatekar,B.Tech.,Mechanical Engineering,tanmay.khatekar@mitaoe.ac.in,+91-9307808663,Male,88.40,NA,78.00,7.41,Resume Updated
+715,202202090003,Tayade Abhinav Prakash,B.Tech.,Mechanical Engineering,abhinav.tayade@mitaoe.ac.in,+91-7666332009,Male,67.20,NA,79.59,5.70,Resume Updated
+716,202202090118,Tejas Vilas Waratkar,B.Tech.,Mechanical Engineering,waratkartejas2003@gmail.com,+91-9607145990,Male,41.00,NA,81.23,7.76,Resume Updated
+717,202101090056,Thombare Dhananjay Sanjivan,B.Tech.,Mechanical Engineering,dhananjay.thombare@mitaoe.ac.in,+91-9156142099,Male,72.20,83.20,NA,6.45,Resume Updated
+718,202101090009,Totre Akash Sitaram,B.Tech.,Mechanical Engineering,akash.totre@mitaoe.ac.in,+91-8600002606,Male,97.20,95.83,NA,8.33,Resume Updated
+719,202202090057,Tupshendre Aditya Ashok,B.Tech.,Mechanical Engineering,aditya.tupshendre@mitaoe.ac.in,+91-7720867988,Male,89.60,NA,82.18,8.59,Resume Updated
+720,202101090092,Ubale Vedant Rajesh,B.Tech.,Mechanical Engineering,vedant.ubale@mitaoe.ac.in,+91-9767549292,Male,89.60,82.50,NA,6.76,Resume Updated
+721,202101090086,Vasudha Sanjeevan Biradar,B.Tech.,Mechanical Engineering,vasudha.biradar@mitaoe.ac.in,+91-7058303494,Female,88.40,86.50,NA,8.18,Resume Updated
+722,202202090031,Ved Thakare,B.Tech.,Mechanical Engineering,thakareved1@gmail.com,+91-8378019330,Male,80.20,NA,81.95,8.18,Resume Updated
+723,202101090089,Vivek Kumar Singh,B.Tech.,Mechanical Engineering,vivek.singh@mitaoe.ac.in,+91-7447330710,Male,83.40,86.80,NA,7.14,Resume Updated
+724,202101090038,Waghmare Adesh Sopan,B.Tech.,Mechanical Engineering,adesh.waghmare@mitaoe.ac.in,+91-9049695369,Male,65.40,79.40,NA,6.88,Resume Updated
+725,202101090008,Wakode Sandesh Prabhakar,B.Tech.,Mechanical Engineering,sandesh.wakode@mitaoe.ac.in,+91-9623878581,Male,87.00,88.00,NA,7.59,Resume Updated
+726,202202090080,Zalte Sanket Dharma,B.Tech.,Mechanical Engineering,sanket.zalte@mitaoe.ac.in,+91-9152154221,Male,87.20,NA,82.20,7.83,Resume Updated
+727,202101090058,Adhangale Aniket Vilas,B.Tech.,Mechanical Engineering,aniket.adhangale@mitaoe.ac.in,+91-8788390464,Male,NA,NA,NA,NA,Invited
+728,202101090113,Agashe Sujal Dilip,B.Tech.,Mechanical Engineering,sujal.agashe@mitaoe.ac.in,+91-7666174019,Male,NA,NA,NA,NA,Invited
+729,202101090111,Ambade Shashank Anil,B.Tech.,Mechanical Engineering,shashank.ambade@mitaoe.ac.in,+91-7020959120,Male,NA,NA,NA,NA,Invited
+730,202101090028,Atole Pranav Keshav,B.Tech.,Mechanical Engineering,pranav.atole@mitaoe.ac.in,+91-8766780994,Male,NA,NA,NA,NA,Invited
+731,202202090072,Bachhav Sohan Nitinkumar,B.Tech.,Mechanical Engineering,sohan.bachhav@mitaoe.ac.in,+91-8262083184,Male,NA,NA,NA,NA,Invited
+732,202202090038,Bavkar Dhruv Umesh,B.Tech.,Mechanical Engineering,dhruv.bavkar@mitaoe.ac.in,+91-9561813267,Male,NA,NA,NA,NA,Invited
+733,202202090120,Bhavsar Ankit Sunil,B.Tech.,Mechanical Engineering,ankitbhavsar910@gmail.com,+91-9028536925,Male,NA,NA,NA,NA,Invited
+734,202101090085,Bhushan Bangde,B.Tech.,Mechanical Engineering,bhushan.bangde@mitaoe.ac.in,+91-7385183410,Male,NA,NA,NA,NA,Invited
+735,0520180082,Dalve Avinash Vitthalrao,B.Tech.,Mechanical Engineering,avdalve@mitaoe.ac.in,+91-8180851837,Male,NA,NA,NA,NA,Invited
+736,202101090110,Dangra Lokesh Gourish,B.Tech.,Mechanical Engineering,lokesh.dangra@mitaoe.ac.in,+91-7385989363,Male,NA,NA,NA,NA,Invited
+737,202101090087,Darade Rohit Hanumant,B.Tech.,Mechanical Engineering,rohit.darade@mitaoe.ac.in,+91-9022294055,Male,NA,NA,NA,NA,Invited
+738,202202090019,Desai Sphurti Shashikant,B.Tech.,Mechanical Engineering,spoo756837@gmail.com,+91-8080582691,Female,NA,NA,NA,NA,Invited
+739,202202090103,Dhamane Karan Shripal,B.Tech.,Mechanical Engineering,karan.dhamane@mitaoe.ac.in,+91-7796273720,Male,NA,NA,NA,NA,Invited
+740,202101090036,Dhole Sanket Bapu,B.Tech.,Mechanical Engineering,sanket.dhole@mitaoe.ac.in,+91-7420073787,Male,NA,NA,NA,NA,Invited
+741,202202090083,Gaikwad Abhijit Dattatray,B.Tech.,Mechanical Engineering,gaikwaddabhijit@gmail.com,+91-9763946946,Male,NA,NA,NA,NA,Invited
+742,202101090031,Harsh Dev Singh,B.Tech.,Mechanical Engineering,harshsambyal036@gmail.com,+91-7889423159,Male,NA,NA,NA,NA,Invited
+743,202101090063,Jogdand Amarnath Keshav,B.Tech.,Mechanical Engineering,amarnath.jogdand@mitaoe.ac.in,+91-8983451601,Male,NA,NA,NA,NA,Invited
+744,202101090066,Kadam Aditya Bhaskar,B.Tech.,Mechanical Engineering,adityab.kadam@mitaoe.ac.in,+91-7276008152,Male,NA,NA,NA,NA,Invited
+745,202101090059,Kamble Aniket Prabhakar,B.Tech.,Mechanical Engineering,aniket.kamble@mitaoe.ac.in,+91-8793831447,Male,NA,NA,NA,NA,Invited
+746,202101090037,Kandhare Sneha Vishwanath,B.Tech.,Mechanical Engineering,sneha.khandhare@mitaoe.ac.in,+91-8431341637,Female,NA,NA,NA,NA,Invited
+747,202101090039,Kishor Fulchand Kharat,B.Tech.,Mechanical Engineering,kishor.kharat@mitaoe.ac.in,+91-7888295892,Male,NA,NA,NA,NA,Invited
+748,202101090006,Mane Siddharth Santosh,B.Tech.,Mechanical Engineering,siddharths.mane@mitaoe.ac.in,+91-7840974353,Male,NA,NA,NA,NA,Invited
+749,202101090019,Nimase Parth Vijaykumar,B.Tech.,Mechanical Engineering,parth.nimase@mitaoe.ac.in,+91-7666399172,Male,NA,NA,NA,NA,Invited
+750,202101090080,Padhen Yash Mahendra,B.Tech.,Mechanical Engineering,yash.padhen@mitaoe.ac.in,+91-9422992649,Male,NA,NA,NA,NA,Invited
+751,202202090111,Pande Saloni Ravi,B.Tech.,Mechanical Engineering,saloni.pande@mitaoe.ac.in,+91-9503386321,Female,NA,NA,NA,NA,Invited
+752,202101090035,Patole Rohit Rajendra,B.Tech.,Mechanical Engineering,rohit.patole@mitaoe.ac.in,+91-9403523117,Male,NA,NA,NA,NA,Invited
+753,202101090121,Pol Vaibhav Shivaji,B.Tech.,Mechanical Engineering,vaibhavpol49@gmail.com,+91-9975044102,Male,NA,NA,NA,NA,Invited
+754,202101090074,Raje Yogita Umesh,B.Tech.,Mechanical Engineering,yogita.raje@mitaoe.ac.in,+91-7559320605,Female,NA,NA,NA,NA,Invited
+755,0120200552,Satav Pranit Dattatray,B.Tech.,Mechanical Engineering,pranit.satav@mitaoe.ac.in,+91-9850641000,Male,NA,NA,NA,NA,Invited
+756,202101090102,Shinde Abhay Pradeep,B.Tech.,Mechanical Engineering,abhay.shinde@mitaoe.ac.in,+91-8857883703,Male,NA,NA,NA,NA,Invited
+757,202101090099,Shinde Siddhesh Sachin,B.Tech.,Mechanical Engineering,shinde.siddesh@mitaoe.ac.in,+91-9970818586,Male,NA,NA,NA,NA,Invited
+758,202101090022,Shriram Omkar Kisan,B.Tech.,Mechanical Engineering,omkar.shriram@mitaoe.ac.in,+91-8767840846,Male,NA,NA,NA,NA,Invited
+759,202202090106,Shubham Krishant Chougale,B.Tech.,Mechanical Engineering,shubhamchougale2564@gmail.com,+91-7385714944,Male,NA,NA,NA,NA,Invited
+760,202101090029,Singh Aditya Pratap,B.Tech.,Mechanical Engineering,apswati2002@gmail.com,+91-9324178394,Male,NA,NA,NA,NA,Invited
+761,202202090027,Swami Akash Shivputra,B.Tech.,Mechanical Engineering,akash.swami@mitaoe.ac.in,+91-9970874838,Male,NA,NA,NA,NA,Invited
+762,202101090045,Thakare Yuvraj Madhukar,B.Tech.,Mechanical Engineering,yuvraj.thakare@mitaoe.ac.in,+91-9403310741,Male,NA,NA,NA,NA,Invited
+763,202101090115,Tupe Praful Milind,B.Tech.,Mechanical Engineering,praful.tupe@mitaoe.ac.in,+91-9049151307,Male,NA,NA,NA,NA,Invited
+764,202101090127,Vansh Verma,B.Tech.,Mechanical Engineering,vansh.verma@mitaoe.ac.in,+91-7006600323,Male,NA,NA,NA,NA,Invited
+765,202101090078,Wagh Prasad Shantaram,B.Tech.,Mechanical Engineering,prasad.wagh@mitaoe.ac.in,+91-9356804430,Male,NA,NA,NA,NA,Invited
+766,202202090100,Waghmare Sakshi Sudhir,B.Tech.,Mechanical Engineering,sakshi.waghmare@mitaoe.ac.in,+91-9172594560,Male,NA,NA,NA,NA,Invited
+767,202101090003,Abhay Rajendra Kotkar,B.Tech.,Mechanical Engineering,abhay.kotkar@mitaoe.ac.in,+91-7774022071,Male,73.20,80.50,NA,6.57,Active
+768,202202090113,Abhishek Bhaskar Akote,B.Tech.,Mechanical Engineering,abhishek.akote@mitaoe.ac.in,+91-7218451588,Male,NA,NA,80.21,NA,Active
+769,202202090115,Abhishek Pravin Suryawanshi,B.Tech.,Mechanical Engineering,abhisheksuryawanshi2604@gmail.com,+91-9307973640,Male,NA,NA,NA,NA,Active
+770,202101090057,Agrawal Mohit Govind,B.Tech.,Mechanical Engineering,mohit.agrawal@mitaoe.ac.in,+91-7276097903,Male,80.40,90.46,NA,8.18,Active
+771,202101090041,Akash Kailas Gawade,B.Tech.,Mechanical Engineering,akash.gawade@mitaoe.ac.in,+91-9011468653,Male,NA,NA,NA,NA,Active
+772,0202202090013,Akshay Bharat Patil,B.Tech.,Mechanical Engineering,akshayb.patil@mitaoe.ac.in,NA,Male,NA,NA,NA,NA,Active
+773,202101090040,Amogh Anirudha Dandwate,B.Tech.,Mechanical Engineering,amogh.dandwate@mitaoe.ac.in,+91-7620322200,Male,84.00,86.00,NA,8.48,Active
+774,202202090123,Bhagat Om Chnagdev,B.Tech.,Mechanical Engineering,om.bhagat@mitaoe.ac.in,+91-8975007015,Male,NA,NA,NA,NA,Active
+775,202101090034,Bhalerao Ieshan Ashwin,B.Tech.,Mechanical Engineering,ieshan.bhalerao@mitaoe.ac.in,+91-8010873635,Male,NA,NA,NA,NA,Active
+776,202202090077,Bokadiya Vedant Prakash,B.Tech.,Mechanical Engineering,vedantbokadiya111@gmail.com,+91-9765677899,Male,NA,NA,NA,NA,Active
+777,0202101090032,Chaitanya Subhash Sherkar,B.Tech.,Mechanical Engineering,chaitanya.sherkar@mitaoe.ac.in,NA,Male,NA,NA,NA,NA,Active
+778,202202090014,Chakre Harshwardhan Balaji,B.Tech.,Mechanical Engineering,chakreharsh123@gmail.com,+91-9307603578,Male,NA,NA,NA,NA,Active
+779,0220200116,Chavan Pravin Chandu,B.Tech.,Mechanical Engineering,pravin.chavan@mitaoe.ac.in,+91-8317276357,Male,NA,NA,NA,NA,Active
+780,202101090077,Chavan Vivek Milin,B.Tech.,Mechanical Engineering,vivek.chavan@mitaoe.ac.in,+91-8369349899,Male,87.00,87.66,NA,7.37,Active
+781,202202090022,Datir Priti Jalindar,B.Tech.,Mechanical Engineering,priti.datir@mitaoe.ac.in,+91-8208424543,Female,NA,NA,NA,NA,Active
+782,202202090047,Deshmukh Amruta Yayati,B.Tech.,Mechanical Engineering,amruta.deshmukh@mitaoe.ac.in,+91-8380942265,Female,NA,NA,NA,NA,Active
+783,202101090043,Dhangapure Mandar Mallinath,B.Tech.,Mechanical Engineering,mandar.dhangapure@mitaoe.ac.in,+91-9028593447,Male,NA,NA,NA,NA,Active
+784,202101090093,Dhargawe Raunak Ravindra,B.Tech.,Mechanical Engineering,raunak.dhargawe@mitaoe.ac.in,+91-8007525877,Male,NA,NA,NA,NA,Active
+785,202101090076,Dhekane Tanmay Hemantarao,B.Tech.,Mechanical Engineering,tanmay.dhekane@mitaoe.ac.in,+91-8788277233,Male,NA,NA,NA,NA,Active
+786,202101090072,Dhongade Ankit Vilas,B.Tech.,Mechanical Engineering,ankit.dhongade@mitaoe.ac.in,+91-7219399201,Male,NA,NA,NA,NA,Active
+787,202202090005,Gadpayle Aniket Satyawan,B.Tech.,Mechanical Engineering,aniket.gadpayle@mitaoe.ac.in,+91-8459388972,Male,NA,NA,NA,7.73,Active
+788,202202090078,Gaikwad Akshata Shivaji,B.Tech.,Mechanical Engineering,akshata.gaikwad@mitaoe.ac.in,+91-7058878459,Female,NA,NA,NA,NA,Active
+789,202202090056,Gaikwad Nikita Sanjay,B.Tech.,Mechanical Engineering,nikita.gaikwad@mitaoe.ac.in,+91-9854196060,Female,NA,NA,NA,NA,Active
+790,202101090096,Gedam Prathamesh Ramesh,B.Tech.,Mechanical Engineering,prathameshgedam01@gmail.com,+91-9579224109,Male,NA,NA,NA,NA,Active
+791,202101090052,Gunjal Anushka Namdev,B.Tech.,Mechanical Engineering,anushka.gunjal@mitaoe.ac.in,+91-8767017931,Female,NA,NA,NA,NA,Active
+792,202202090085,Hinge Prathamesh Ashok,B.Tech.,Mechanical Engineering,prathamesh.hinge@mitaoe.ac.in,+91-7385330636,Male,NA,NA,NA,NA,Active
+793,202101090054,Jadhav Parag Sanjay,B.Tech.,Mechanical Engineering,parag.jadhav@mitaoe.ac.in,+91-8767359526,Male,NA,NA,NA,NA,Active
+794,202202090020,Jadhav Paras Ganesh,B.Tech.,Mechanical Engineering,paras.jadhav@mitaoe.ac.in,+91-7028584866,Male,NA,NA,NA,NA,Active
+795,202202090070,Jadkar Ajinkya Santosh,B.Tech.,Mechanical Engineering,ajinkya.jadkar@mitaoe.ac.in,+91-9322449425,Male,NA,NA,NA,NA,Active
+796,202202090036,Jaiswal Tejas Jitendra,B.Tech.,Mechanical Engineering,tejas.jaiswal@mitaoe.ac.in,+91-9822569596,Male,NA,NA,NA,NA,Active
+797,202202090099,Jewarikar Shantanu Sudhakar,B.Tech.,Mechanical Engineering,shantanu.jewarikar@mitaoe.ac.in,+91-8830924404,Male,NA,NA,NA,NA,Active
+798,202101090065,Jogdand Rohit Balaji,B.Tech.,Mechanical Engineering,rohit.jogdand@mitaoe.ac.in,+91-7397906473,Male,NA,NA,NA,NA,Active
+799,202202090075,Kalel Abhay Subhash,B.Tech.,Mechanical Engineering,abhay.kalel@mitaoe.ac.in,+91-9537586368,Male,NA,NA,NA,NA,Active
+800,202101090033,Kardile Tejas Kiran,B.Tech.,Mechanical Engineering,tejas.kardile@mitaoe.ac.in,+91-8857835995,Male,52.20,72.33,NA,6.20,Active
+801,202202090010,Kathe Vaishnavi Sharad,B.Tech.,Mechanical Engineering,vaishnavi.kathe@mitaoe.ac.in,+91-8010445308,Female,NA,NA,NA,NA,Active
+802,202101090061,Kavale Vyankatesh Vitthal,B.Tech.,Mechanical Engineering,vyankatesh.kavale@mitaoe.ac.in,+91-9699623293,Male,82.40,89.00,NA,NA,Active
+803,202202090101,Kokate Ashitosh Santosh,B.Tech.,Mechanical Engineering,ashitoshkokate@gmail.com,+91-8421009533,Male,NA,NA,NA,NA,Active
+804,202202090081,Kolhe Ajay Shivshankar,B.Tech.,Mechanical Engineering,ajaykolhe2401@gmail.com,+91-9373177346,Male,NA,NA,NA,NA,Active
+805,202101090071,Kolhe Rushikesh Eknath,B.Tech.,Mechanical Engineering,rushikesh.kolhe@mitaoe.ac.in,+91-7499110106,Male,68.40,86.50,NA,7.01,Active
+806,202101090083,Mahadik Tushar Balasaheb,B.Tech.,Mechanical Engineering,tushar.mahadik@mitaoe.ac.in,+91-8767643671,Male,NA,NA,NA,NA,Active
+807,202202090094,Mahajan Vivek Jayram,B.Tech.,Mechanical Engineering,vivek.mahajan@mitaoe.ac.in,+91-8459590667,Male,NA,NA,NA,NA,Active
+808,202202090032,Mali Rushikesh Vilas,B.Tech.,Mechanical Engineering,rushikesh.mali@mitaoe.ac.in,+91-7972856897,Male,82.80,NA,83.53,7.59,Active
+809,0202101090070,Mayuresh Himmatrao Mane,B.Tech.,Mechanical Engineering,mayuresh.mane@mitaoe.ac.in,NA,Male,NA,NA,NA,NA,Active
+810,202101090081,Merat Mahesh Pandharinath,B.Tech.,Mechanical Engineering,mahesh.merat@mitaoe.ac.in,+91-9579347736,Male,NA,NA,NA,NA,Active
+811,202202090050,Mohalkar Akshay Sunil,B.Tech.,Mechanical Engineering,akshaymohalkar2001@gmail.com,+91-9503797703,Male,NA,NA,NA,NA,Active
+812,202101090026,More Manas Suhas,B.Tech.,Mechanical Engineering,manas.more@mitaoe.ac.in,+91-9373371306,Male,NA,NA,NA,NA,Active
+813,202101090016,Mukul Rajesh Sandyanshi,B.Tech.,Mechanical Engineering,mukul.sandyanshi@mitaoe.ac.in,+91-9766070499,Male,NA,NA,NA,6.23,Active
+814,202101090073,Nagare Dhruvesh Yogesh,B.Tech.,Mechanical Engineering,dhruvesh.nagare@mitaoe.ac.in,+91-7709429507,Male,NA,NA,NA,NA,Active
+815,202202090096,Naik Deep Mahadeo,B.Tech.,Mechanical Engineering,deep.naik@mitaoe.ac.in,+91-9324101409,Male,NA,NA,NA,NA,Active
+816,202101090109,Naik Sanskar Sanjivkumar,B.Tech.,Mechanical Engineering,sanskar.naik@mitaoe.ac.in,+91-7709772915,Male,NA,NA,NA,NA,Active
+817,202101090024,Nair Akhilesh Jayakrishnan,B.Tech.,Mechanical Engineering,akhilesh.nair@mitaoe.ac.in,+91-9702527345,Male,76.20,80.33,NA,8.20,Active
+818,0120200454,Nemmaniwar Pranav Prabhakar,B.Tech.,Mechanical Engineering,pranav.nemmaniwar@mitaoe.ac.in,+91-9359228247,Male,NA,NA,NA,NA,Active
+819,0120200589,Osho Sanjeev Umap,B.Tech.,Mechanical Engineering,osho.umap@mitaoe.ac.in,+91-9322946630,Male,NA,NA,NA,NA,Active
+820,202101090030,Parees Ashish Palkar,B.Tech.,Mechanical Engineering,parees.palkar@mitaoe.ac.in,+91-9325476165,Male,87.00,78.00,NA,NA,Active
+821,202101090068,Patil Aditya Appaso,B.Tech.,Mechanical Engineering,aditya-patil@mitaoe.ac.in,+91-9673617657,Male,62.00,79.17,NA,6.25,Active
+822,202101090023,Patil Chaitanya Bhai,B.Tech.,Mechanical Engineering,chaitanya.patil@mitaoe.ac.in,+91-9130811243,Male,80.20,84.67,NA,8.78,Active
+823,202202090051,Patil Shreshth Shivaji,B.Tech.,Mechanical Engineering,shreshth.patil@mitaoe.ac.in,+91-9373125747,Male,NA,NA,NA,NA,Active
+824,202202090055,Patil Sudarshan Bharat,B.Tech.,Mechanical Engineering,sudarshan.patil@mitaoe.ac.in,+91-7820907098,Male,84.40,NA,79.28,8.42,Active
+825,202101090014,Prajwal Vijay Kokate,B.Tech.,Mechanical Engineering,prajwal.kokate@mitaoe.ac.in,+91-9028345695,Male,NA,NA,NA,NA,Active
+826,020210109020,Pratik Prakash Dhamal,B.Tech.,Mechanical Engineering,pratik.dhamal@mitaoe.ac.in,NA,Male,NA,NA,NA,NA,Active
+827,202101090047,Rakhunde Avishkar Ankush,B.Tech.,Mechanical Engineering,avishkar.rakhunde@mitaoe.ac.in,+91-8262996800,Male,NA,NA,NA,NA,Active
+828,202202090053,Ranbhare Atharv Umakant,B.Tech.,Mechanical Engineering,atharv.ranbhare@mitaoe.ac.in,+91-7821057951,Male,NA,NA,NA,NA,Active
+829,202101090075,Rathod Shubham Ganpat,B.Tech.,Mechanical Engineering,shubham.rathod@mitaoe.ac.in,+91-9307365580,Male,NA,NA,NA,NA,Active
+830,202101090100,Raut Piyush Sanjay,B.Tech.,Mechanical Engineering,piyush.raut@mitaoe.ac.in,+91-7448162781,Male,NA,NA,NA,NA,Active
+831,202202090001,Ruchita Bajirao Sawant,B.Tech.,Mechanical Engineering,s4uruchita@gmail.com,+91-9922971268,Female,62.42,NA,73.90,NA,Active
+832,202202090105,Sahil Vijay Rankhambe,B.Tech.,Mechanical Engineering,sahil.rankhambe@mitaoe.ac.in,+91-9321401643,Male,NA,NA,NA,NA,Active
+833,202202090097,Salunkhe Atharva Hemant,B.Tech.,Mechanical Engineering,atharva.salunkhe@mitaoe.ac.in,+91-8856080638,Male,NA,NA,NA,NA,Active
+834,0120200609,Sathe Ajinkya Ramesh,B.Tech.,Mechanical Engineering,ajinkya.sathe@mitaoe.ac.in,+91-8898180302,Male,NA,NA,NA,NA,Active
+835,0220200065,Shambharkar Akash Vilas,B.Tech.,Mechanical Engineering,akash.shambharkar@mitaoe.ac.in,+91-9890538427,Male,NA,NA,NA,NA,Active
+836,202101090094,Shambharkar Pallavi Prakash,B.Tech.,Mechanical Engineering,pallavishambharkar236@gmail.com,+91-7249370312,Female,NA,NA,NA,NA,Active
+837,202101090062,Shinde Nikhil Umesh,B.Tech.,Mechanical Engineering,nikhil-shinde@mitaoe.ac.in,+91-7264065039,Male,NA,NA,NA,NA,Active
+838,202202090071,Shinde Prathmesh Shridhar,B.Tech.,Mechanical Engineering,prathmesh.shinde@mitaoe.ac.in,+91-9665463250,Male,NA,NA,NA,NA,Active
+839,202202090037,Shirgire Abhijit Bhimrao,B.Tech.,Mechanical Engineering,abhijit.shirgire@mitaoe.ac.in,+91-9370799680,Male,NA,NA,NA,NA,Active
+840,202101090123,Shivam Prakash,B.Tech.,Mechanical Engineering,shivamprakash2004@gmail.com,+91-7484009459,NA,NA,NA,NA,NA,Active
+841,202202090058,Shubham Arun Pashte,B.Tech.,Mechanical Engineering,shubham.pashte@mitaoe.ac.in,+91-9307880390,Male,72.80,NA,81.23,7.96,Active
+842,202101090025,Shubham Santoshrao Shinde,B.Tech.,Mechanical Engineering,shubham.shinde@mitaoe.ac.in,+91-7249231741,Male,82.46,76.68,NA,NA,Active
+843,202202090112,Shubham Sunil Nangare,B.Tech.,Mechanical Engineering,shubham.nangare@mitaoe.ac.in,+91-9307651548,Male,73.80,NA,78.92,7.48,Active
+844,202101090049,Sihasane Shreyas Mahendra,B.Tech.,Mechanical Engineering,shreyas.sihasane@mitaoe.ac.in,+91-9322356392,Male,NA,NA,NA,NA,Active
+845,202202090008,Solunke Rahul Balaji,B.Tech.,Mechanical Engineering,rahul.solunke@mitaoe.ac.in,+91-8459753682,Male,NA,NA,NA,NA,Active
+846,202202090049,Sonawane Karan Nitin,B.Tech.,Mechanical Engineering,karan.sonawane@mitaoe.ac.in,+91-7498382994,Male,NA,NA,NA,7.82,Active
+847,202202090076,Sonawane Kunal Ravindra,B.Tech.,Mechanical Engineering,kunal.sonawane@mitaoe.ac.in,+91-9665553249,Male,NA,NA,NA,NA,Active
+848,202202090007,Suryawanshi Aditya Kishor,B.Tech.,Mechanical Engineering,aditya.suryawanshi@mitaoe.ac.in,+91-7387394362,Male,82.20,NA,NA,NA,Active
+849,202101090027,Tambe Aditya Raosaheb,B.Tech.,Mechanical Engineering,aditya.tambe@mitaoe.ac.in,+91-7841892826,Male,NA,NA,NA,NA,Active
+850,202202090041,Thite Om Shahaji,B.Tech.,Mechanical Engineering,om.thite@mitaoe.ac.in,+91-9960437344,Male,NA,NA,NA,NA,Active
+851,202101090064,Tupe Harshal Gajajan,B.Tech.,Mechanical Engineering,harshal.tupe@mitaoe.ac.in,+91-7016893716,Male,NA,NA,NA,NA,Active
+852,202202090002,Vani Anushka Nanasaheb,B.Tech.,Mechanical Engineering,anushka.vani@mitaoe.ac.in,+91-9969889750,Female,NA,NA,NA,NA,Active
+853,202202090102,Vishwajit Nanasaheb Kadam,B.Tech.,Mechanical Engineering,vishwajit.kadam@mitaoe.ac.in,+91-8552926749,Male,NA,NA,NA,NA,Active
+854,202101090060,Vismay Sanjay Shende,B.Tech.,Mechanical Engineering,vismay.shende@mitaoe.ac.in,+91-9884396908,Male,84.20,84.80,NA,7.08,Active
+855,0120200591,Yash Ranjit Parde,B.Tech.,Mechanical Engineering,yash.parde@mitaoe.ac.in,+91-8669360070,Male,69.00,59.00,NA,NA,Active
+856,202202090086,Yeole Atharva Pravin,B.Tech.,Mechanical Engineering,atharva.yeole@mitaoe.ac.in,+91-9175773998,Male,NA,NA,NA,NA,Active
+857,202202090090,Yeotikar Prathmesh Abhaychandra,B.Tech.,Mechanical Engineering,prathmesh.yeotikar@mitaoe.ac.in,+91-9764687335,Male,NA,NA,NA,NA,Active
+858,202202090033,Yeshrita Sai Lata Meka,B.Tech.,Mechanical Engineering,yeshrita.meka@mitaoe.ac.in,+91-8149895047,Female,NA,NA,NA,NA,Active
